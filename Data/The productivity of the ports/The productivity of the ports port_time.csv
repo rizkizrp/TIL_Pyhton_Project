@@ -1,0 +1,1459 @@
+<<<<<<< HEAD
+Period,Period Label,Year,Frequency,Frequency Label,Economy Label,CommercialMarket Label,Median time in port (days),Average age of vessels
+2020S01,S1   2020,2020,S,Semi-annual,World,All ships,0.9944,18
+2020S01,S1   2020,2020,S,Semi-annual,World,Passenger ships,,20
+2020S01,S1   2020,2020,S,Semi-annual,World,Liquid bulk carriers,0.9701,14
+2020S01,S1   2020,2020,S,Semi-annual,World,Container ships,0.6861,14
+2020S01,S1   2020,2020,S,Semi-annual,World,Dry breakbulk carriers,1.1757,21
+2020S01,S1   2020,2020,S,Semi-annual,World,Dry bulk carriers,2.0868,14
+2020S01,S1   2020,2020,S,Semi-annual,World,Roll-on/ roll-off ships,,17
+2020S01,S1   2020,2020,S,Semi-annual,World,Liquefied petroleum gas carriers,1.0389,15
+2020S01,S1   2020,2020,S,Semi-annual,World,Liquefied natural gas carriers,1.1111,11
+2020S01,S1   2020,2020,S,Semi-annual,Australia,All ships,1.4889,21
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Passenger ships,,29
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Liquid bulk carriers,1.2563,8
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Container ships,1.3083,13
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Dry breakbulk carriers,2.226,12
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Dry bulk carriers,1.6215,10
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Roll-on/ roll-off ships,,13
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Liquefied petroleum gas carriers,0.9323,10
+2020S01,S1   2020,2020,S,Semi-annual,Australia,Liquefied natural gas carriers,1.1851,9
+2020S01,S1   2020,2020,S,Semi-annual,Canada,All ships,0.9944,27
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Passenger ships,,31
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Liquid bulk carriers,1.0917,12
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Container ships,1.6229,14
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Dry breakbulk carriers,1.0125,13
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Dry bulk carriers,0.5833,21
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Roll-on/ roll-off ships,,18
+2020S01,S1   2020,2020,S,Semi-annual,Canada,Liquefied petroleum gas carriers,1.4882,11
+2020S01,S1   2020,2020,S,Semi-annual,China,All ships,1.0556,13
+2020S01,S1   2020,2020,S,Semi-annual,China,Passenger ships,,12
+2020S01,S1   2020,2020,S,Semi-annual,China,Liquid bulk carriers,1.1132,11
+2020S01,S1   2020,2020,S,Semi-annual,China,Container ships,0.5951,12
+2020S01,S1   2020,2020,S,Semi-annual,China,Dry breakbulk carriers,1.2507,17
+2020S01,S1   2020,2020,S,Semi-annual,China,Dry bulk carriers,2.0215,13
+2020S01,S1   2020,2020,S,Semi-annual,China,Roll-on/ roll-off ships,,14
+2020S01,S1   2020,2020,S,Semi-annual,China,Liquefied petroleum gas carriers,1.0083,15
+2020S01,S1   2020,2020,S,Semi-annual,China,Liquefied natural gas carriers,1.1778,10
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,All ships,1.1111,17
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,Passenger ships,,16
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,Liquid bulk carriers,0.9476,14
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,Container ships,0.6507,13
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,Dry breakbulk carriers,2.1979,22
+2020S01,S1   2020,2020,S,Semi-annual,Croatia,Dry bulk carriers,1.7819,35
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,All ships,0.7868,19
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Passenger ships,,19
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Liquid bulk carriers,0.7076,16
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Container ships,0.4458,18
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Dry breakbulk carriers,0.9441,24
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Dry bulk carriers,0.858,15
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Roll-on/ roll-off ships,,20
+2020S01,S1   2020,2020,S,Semi-annual,Denmark,Liquefied petroleum gas carriers,1.0302,11
+2020S01,S1   2020,2020,S,Semi-annual,France,All ships,1.2042,16
+2020S01,S1   2020,2020,S,Semi-annual,France,Passenger ships,,17
+2020S01,S1   2020,2020,S,Semi-annual,France,Liquid bulk carriers,1.0958,13
+2020S01,S1   2020,2020,S,Semi-annual,France,Container ships,0.8062,14
+2020S01,S1   2020,2020,S,Semi-annual,France,Dry breakbulk carriers,1.7167,17
+2020S01,S1   2020,2020,S,Semi-annual,France,Dry bulk carriers,3.1076,13
+2020S01,S1   2020,2020,S,Semi-annual,France,Roll-on/ roll-off ships,,16
+2020S01,S1   2020,2020,S,Semi-annual,France,Liquefied petroleum gas carriers,1.1017,12
+2020S01,S1   2020,2020,S,Semi-annual,France,Liquefied natural gas carriers,1.1625,9
+2020S01,S1   2020,2020,S,Semi-annual,Germany,All ships,0.8205,19
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Passenger ships,,20
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Liquid bulk carriers,0.5208,17
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Container ships,0.9667,13
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Dry breakbulk carriers,1.0104,21
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Dry bulk carriers,2.6139,14
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Roll-on/ roll-off ships,,16
+2020S01,S1   2020,2020,S,Semi-annual,Germany,Liquefied petroleum gas carriers,0.8333,13
+2020S01,S1   2020,2020,S,Semi-annual,Greece,All ships,0.849,21
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Passenger ships,,19
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Liquid bulk carriers,0.6354,22
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Container ships,0.9861,16
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Dry breakbulk carriers,1.2424,33
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Dry bulk carriers,0.4056,26
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Roll-on/ roll-off ships,,32
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Liquefied petroleum gas carriers,0.9722,23
+2020S01,S1   2020,2020,S,Semi-annual,Greece,Liquefied natural gas carriers,1.2007,11
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,All ships,1.2271,21
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Passenger ships,,23
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Liquid bulk carriers,1.1972,16
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Container ships,0.9799,14
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Dry breakbulk carriers,1.2073,20
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Dry bulk carriers,3.2125,17
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Roll-on/ roll-off ships,,34
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Liquefied petroleum gas carriers,1.0788,20
+2020S01,S1   2020,2020,S,Semi-annual,Indonesia,Liquefied natural gas carriers,1.4003,20
+2020S01,S1   2020,2020,S,Semi-annual,Italy,All ships,1.3111,26
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Passenger ships,,29
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Liquid bulk carriers,1.2986,17
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Container ships,0.916,16
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Dry breakbulk carriers,2.0542,20
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Dry bulk carriers,3.6125,14
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Roll-on/ roll-off ships,,13
+2020S01,S1   2020,2020,S,Semi-annual,Italy,Liquefied petroleum gas carriers,1.5465,12
+2020S01,S1   2020,2020,S,Semi-annual,Japan,All ships,0.3993,14
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Passenger ships,,16
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Liquid bulk carriers,0.3063,12
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Container ships,0.3354,13
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Dry breakbulk carriers,1.1708,15
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Dry bulk carriers,0.8396,14
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Roll-on/ roll-off ships,,12
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Liquefied petroleum gas carriers,0.3403,15
+2020S01,S1   2020,2020,S,Semi-annual,Japan,Liquefied natural gas carriers,0.9958,14
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",All ships,0.8431,15
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Passenger ships,,17
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Liquid bulk carriers,0.8056,13
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Container ships,0.6153,13
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Dry breakbulk carriers,1.2375,18
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Dry bulk carriers,2.0333,15
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Roll-on/ roll-off ships,,18
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Liquefied petroleum gas carriers,0.8674,17
+2020S01,S1   2020,2020,S,Semi-annual,"Korea, Republic of",Liquefied natural gas carriers,1.025,12
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,All ships,0.5889,17
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Passenger ships,,15
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Liquid bulk carriers,0.5472,16
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Container ships,0.7917,14
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Dry breakbulk carriers,0.4,19
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Dry bulk carriers,0.2111,11
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Roll-on/ roll-off ships,,22
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Liquefied petroleum gas carriers,0.9757,12
+2020S01,S1   2020,2020,S,Semi-annual,Netherlands,Liquefied natural gas carriers,1.0326,5
+2020S01,S1   2020,2020,S,Semi-annual,Norway,All ships,0.4028,15
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Passenger ships,,14
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Liquid bulk carriers,0.6035,15
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Container ships,0.3295,16
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Dry breakbulk carriers,0.3042,23
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Dry bulk carriers,0.8472,15
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Roll-on/ roll-off ships,,18
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Liquefied petroleum gas carriers,0.7705,11
+2020S01,S1   2020,2020,S,Semi-annual,Norway,Liquefied natural gas carriers,0.2576,14
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,All ships,1.4424,25
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Passenger ships,,36
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Liquid bulk carriers,1.1437,23
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Container ships,1.3253,18
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Dry breakbulk carriers,1.7493,31
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Dry bulk carriers,2.4722,13
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Roll-on/ roll-off ships,,31
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Liquefied petroleum gas carriers,1.3903,11
+2020S01,S1   2020,2020,S,Semi-annual,Russian Federation,Liquefied natural gas carriers,1.0688,8
+2020S01,S1   2020,2020,S,Semi-annual,Spain,All ships,0.9021,17
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Passenger ships,,19
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Liquid bulk carriers,0.9007,12
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Container ships,0.6632,15
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Dry breakbulk carriers,1.2389,16
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Dry bulk carriers,1.8323,17
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Roll-on/ roll-off ships,,17
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Liquefied petroleum gas carriers,1.0097,14
+2020S01,S1   2020,2020,S,Semi-annual,Spain,Liquefied natural gas carriers,1.0375,9
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,All ships,0.8087,22
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Passenger ships,,24
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Liquid bulk carriers,0.6983,14
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Container ships,0.6361,15
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Dry breakbulk carriers,1.0552,21
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Dry bulk carriers,0.4979,29
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Roll-on/ roll-off ships,,20
+2020S01,S1   2020,2020,S,Semi-annual,Sweden,Liquefied petroleum gas carriers,0.849,14
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,All ships,1.1858,25
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Passenger ships,,26
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Liquid bulk carriers,1.1976,14
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Container ships,0.6056,17
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Dry breakbulk carriers,1.5215,28
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Dry bulk carriers,3.8139,15
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Roll-on/ roll-off ships,,25
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Liquefied petroleum gas carriers,1.2319,16
+2020S01,S1   2020,2020,S,Semi-annual,Turkey,Liquefied natural gas carriers,1.2951,11
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,All ships,1.4625,24
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Passenger ships,,28
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Liquid bulk carriers,1.6444,11
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Container ships,1.0132,14
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Dry breakbulk carriers,1.9313,18
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Dry bulk carriers,2.1361,17
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Roll-on/ roll-off ships,,13
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Liquefied petroleum gas carriers,1.9736,9
+2020S01,S1   2020,2020,S,Semi-annual,United States of America,Liquefied natural gas carriers,1.2222,6
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,All ships,1.1014,17
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Passenger ships,,17
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Liquid bulk carriers,1.0521,14
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Container ships,0.7083,15
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Dry breakbulk carriers,1.5222,19
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Dry bulk carriers,2.5,12
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Roll-on/ roll-off ships,,14
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Liquefied petroleum gas carriers,1.0698,12
+2020S01,S1   2020,2020,S,Semi-annual,United Kingdom,Liquefied natural gas carriers,1.3566,8
+2020S02,S2   2020,2020,S,Semi-annual,World,All ships,1.0021,18
+2020S02,S2   2020,2020,S,Semi-annual,World,Passenger ships,,20
+2020S02,S2   2020,2020,S,Semi-annual,World,Liquid bulk carriers,0.966,14
+2020S02,S2   2020,2020,S,Semi-annual,World,Container ships,0.7257,13
+2020S02,S2   2020,2020,S,Semi-annual,World,Dry breakbulk carriers,1.1278,21
+2020S02,S2   2020,2020,S,Semi-annual,World,Dry bulk carriers,2.0465,14
+2020S02,S2   2020,2020,S,Semi-annual,World,Roll-on/ roll-off ships,,17
+2020S02,S2   2020,2020,S,Semi-annual,World,Liquefied petroleum gas carriers,1.0444,14
+2020S02,S2   2020,2020,S,Semi-annual,World,Liquefied natural gas carriers,1.1281,11
+2020S02,S2   2020,2020,S,Semi-annual,Australia,All ships,1.5229,20
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Passenger ships,,30
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Liquid bulk carriers,1.2965,8
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Container ships,1.5545,13
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Dry breakbulk carriers,1.8535,11
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Dry bulk carriers,1.6028,10
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Roll-on/ roll-off ships,,12
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Liquefied petroleum gas carriers,0.8938,9
+2020S02,S2   2020,2020,S,Semi-annual,Australia,Liquefied natural gas carriers,1.2038,9
+2020S02,S2   2020,2020,S,Semi-annual,Canada,All ships,0.625,26
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Passenger ships,,29
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Liquid bulk carriers,1.0806,11
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Container ships,1.8628,13
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Dry breakbulk carriers,0.4313,12
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Dry bulk carriers,0.2792,23
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Roll-on/ roll-off ships,,19
+2020S02,S2   2020,2020,S,Semi-annual,Canada,Liquefied petroleum gas carriers,1.5288,12
+2020S02,S2   2020,2020,S,Semi-annual,China,All ships,1.0958,13
+2020S02,S2   2020,2020,S,Semi-annual,China,Passenger ships,,13
+2020S02,S2   2020,2020,S,Semi-annual,China,Liquid bulk carriers,1.1646,11
+2020S02,S2   2020,2020,S,Semi-annual,China,Container ships,0.6479,12
+2020S02,S2   2020,2020,S,Semi-annual,China,Dry breakbulk carriers,1.2924,16
+2020S02,S2   2020,2020,S,Semi-annual,China,Dry bulk carriers,2.0146,13
+2020S02,S2   2020,2020,S,Semi-annual,China,Roll-on/ roll-off ships,,13
+2020S02,S2   2020,2020,S,Semi-annual,China,Liquefied petroleum gas carriers,1.0368,13
+2020S02,S2   2020,2020,S,Semi-annual,China,Liquefied natural gas carriers,1.2007,9
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,All ships,1.1118,15
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,Passenger ships,,15
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,Liquid bulk carriers,0.8951,14
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,Container ships,0.5719,14
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,Dry breakbulk carriers,2.3253,22
+2020S02,S2   2020,2020,S,Semi-annual,Croatia,Dry bulk carriers,2.5951,34
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,All ships,0.7601,19
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Passenger ships,,19
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Liquid bulk carriers,0.6837,16
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Container ships,0.4483,14
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Dry breakbulk carriers,0.9118,24
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Dry bulk carriers,0.8618,11
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Roll-on/ roll-off ships,,19
+2020S02,S2   2020,2020,S,Semi-annual,Denmark,Liquefied petroleum gas carriers,1.059,12
+2020S02,S2   2020,2020,S,Semi-annual,France,All ships,1.1035,16
+2020S02,S2   2020,2020,S,Semi-annual,France,Passenger ships,,18
+2020S02,S2   2020,2020,S,Semi-annual,France,Liquid bulk carriers,1.0194,13
+2020S02,S2   2020,2020,S,Semi-annual,France,Container ships,0.7615,13
+2020S02,S2   2020,2020,S,Semi-annual,France,Dry breakbulk carriers,1.5778,17
+2020S02,S2   2020,2020,S,Semi-annual,France,Dry bulk carriers,2.7743,13
+2020S02,S2   2020,2020,S,Semi-annual,France,Roll-on/ roll-off ships,,15
+2020S02,S2   2020,2020,S,Semi-annual,France,Liquefied petroleum gas carriers,1.1583,11
+2020S02,S2   2020,2020,S,Semi-annual,France,Liquefied natural gas carriers,1.167,9
+2020S02,S2   2020,2020,S,Semi-annual,Germany,All ships,0.7958,19
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Passenger ships,,20
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Liquid bulk carriers,0.5049,18
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Container ships,1,13
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Dry breakbulk carriers,0.9069,21
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Dry bulk carriers,2.2295,12
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Roll-on/ roll-off ships,,17
+2020S02,S2   2020,2020,S,Semi-annual,Germany,Liquefied petroleum gas carriers,0.8528,13
+2020S02,S2   2020,2020,S,Semi-annual,Greece,All ships,0.7997,22
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Passenger ships,,21
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Liquid bulk carriers,0.6007,21
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Container ships,0.9729,15
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Dry breakbulk carriers,1.0951,33
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Dry bulk carriers,0.4455,26
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Roll-on/ roll-off ships,,31
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Liquefied petroleum gas carriers,1.0007,24
+2020S02,S2   2020,2020,S,Semi-annual,Greece,Liquefied natural gas carriers,1.2955,10
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,All ships,1.2174,20
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Passenger ships,,21
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Liquid bulk carriers,1.241,15
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Container ships,0.9958,14
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Dry breakbulk carriers,1.0896,20
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Dry bulk carriers,2.9785,17
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Roll-on/ roll-off ships,,33
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Liquefied petroleum gas carriers,1.1049,19
+2020S02,S2   2020,2020,S,Semi-annual,Indonesia,Liquefied natural gas carriers,1.4076,18
+2020S02,S2   2020,2020,S,Semi-annual,Italy,All ships,1.3101,27
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Passenger ships,,29
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Liquid bulk carriers,1.2729,18
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Container ships,0.9264,16
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Dry breakbulk carriers,2.0264,19
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Dry bulk carriers,3.4809,16
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Roll-on/ roll-off ships,,13
+2020S02,S2   2020,2020,S,Semi-annual,Italy,Liquefied petroleum gas carriers,1.7056,13
+2020S02,S2   2020,2020,S,Semi-annual,Japan,All ships,0.3951,13
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Passenger ships,,15
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Liquid bulk carriers,0.3118,12
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Container ships,0.3389,12
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Dry breakbulk carriers,1.0986,14
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Dry bulk carriers,0.8194,13
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Roll-on/ roll-off ships,,11
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Liquefied petroleum gas carriers,0.3319,14
+2020S02,S2   2020,2020,S,Semi-annual,Japan,Liquefied natural gas carriers,1.0354,13
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",All ships,0.8722,14
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Passenger ships,,15
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Liquid bulk carriers,0.7792,12
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Container ships,0.6667,13
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Dry breakbulk carriers,1.1958,17
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Dry bulk carriers,2.0135,14
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Roll-on/ roll-off ships,,17
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Liquefied petroleum gas carriers,0.841,17
+2020S02,S2   2020,2020,S,Semi-annual,"Korea, Republic of",Liquefied natural gas carriers,1.0344,10
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,All ships,0.5701,17
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Passenger ships,,15
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Liquid bulk carriers,0.5042,16
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Container ships,0.8153,14
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Dry breakbulk carriers,0.4097,19
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Dry bulk carriers,1.0993,11
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Roll-on/ roll-off ships,,22
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Liquefied petroleum gas carriers,1.0347,12
+2020S02,S2   2020,2020,S,Semi-annual,Netherlands,Liquefied natural gas carriers,1.0608,6
+2020S02,S2   2020,2020,S,Semi-annual,Norway,All ships,0.4028,14
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Passenger ships,,13
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Liquid bulk carriers,0.6083,16
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Container ships,0.3319,15
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Dry breakbulk carriers,0.3167,23
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Dry bulk carriers,0.8017,15
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Roll-on/ roll-off ships,,17
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Liquefied petroleum gas carriers,0.7528,11
+2020S02,S2   2020,2020,S,Semi-annual,Norway,Liquefied natural gas carriers,0.2892,14
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,All ships,1.2806,27
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Passenger ships,,37
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Liquid bulk carriers,0.9681,24
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Container ships,1.2924,18
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Dry breakbulk carriers,1.4264,33
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Dry bulk carriers,2.3566,15
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Roll-on/ roll-off ships,,33
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Liquefied petroleum gas carriers,1.3125,12
+2020S02,S2   2020,2020,S,Semi-annual,Russian Federation,Liquefied natural gas carriers,1.1437,7
+2020S02,S2   2020,2020,S,Semi-annual,Spain,All ships,0.9021,16
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Passenger ships,,18
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Liquid bulk carriers,0.9118,12
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Container ships,0.6622,14
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Dry breakbulk carriers,1.184,16
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Dry bulk carriers,1.7528,16
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Roll-on/ roll-off ships,,18
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Liquefied petroleum gas carriers,1.0625,12
+2020S02,S2   2020,2020,S,Semi-annual,Spain,Liquefied natural gas carriers,1.0604,9
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,All ships,0.7837,22
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Passenger ships,,24
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Liquid bulk carriers,0.658,14
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Container ships,0.6056,15
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Dry breakbulk carriers,1.0458,21
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Dry bulk carriers,0.4743,27
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Roll-on/ roll-off ships,,21
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Liquefied petroleum gas carriers,0.8167,15
+2020S02,S2   2020,2020,S,Semi-annual,Sweden,Liquefied natural gas carriers,0.8219,6
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,All ships,1.1965,25
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Passenger ships,,26
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Liquid bulk carriers,1.2111,14
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Container ships,0.6215,16
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Dry breakbulk carriers,1.5431,28
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Dry bulk carriers,3.9743,15
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Roll-on/ roll-off ships,,25
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Liquefied petroleum gas carriers,1.4278,15
+2020S02,S2   2020,2020,S,Semi-annual,Turkey,Liquefied natural gas carriers,1.2729,10
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,All ships,1.4438,25
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Passenger ships,,29
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Liquid bulk carriers,1.5872,10
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Container ships,1.0566,14
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Dry breakbulk carriers,1.8792,17
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Dry bulk carriers,1.8399,21
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Roll-on/ roll-off ships,,13
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Liquefied petroleum gas carriers,1.9694,9
+2020S02,S2   2020,2020,S,Semi-annual,United States of America,Liquefied natural gas carriers,1.2757,6
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,All ships,1.1125,17
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Passenger ships,,17
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Liquid bulk carriers,1.034,14
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Container ships,0.7535,15
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Dry breakbulk carriers,1.5378,18
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Dry bulk carriers,3.0299,13
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Roll-on/ roll-off ships,,14
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Liquefied petroleum gas carriers,1.0535,11
+2020S02,S2   2020,2020,S,Semi-annual,United Kingdom,Liquefied natural gas carriers,1.2507,8
+2021S01,S1   2021,2021,S,Semi-annual,World,All ships,1.041,18
+2021S01,S1   2021,2021,S,Semi-annual,World,Passenger ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,World,Liquid bulk carriers,0.984,15
+2021S01,S1   2021,2021,S,Semi-annual,World,Container ships,0.775,14
+2021S01,S1   2021,2021,S,Semi-annual,World,Dry breakbulk carriers,1.1896,21
+2021S01,S1   2021,2021,S,Semi-annual,World,Dry bulk carriers,2.1299,14
+2021S01,S1   2021,2021,S,Semi-annual,World,Roll-on/ roll-off ships,,17
+2021S01,S1   2021,2021,S,Semi-annual,World,Liquefied petroleum gas carriers,1.0306,15
+2021S01,S1   2021,2021,S,Semi-annual,World,Liquefied natural gas carriers,1.1285,12
+2021S01,S1   2021,2021,S,Semi-annual,Australia,All ships,1.5736,21
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Passenger ships,,30
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Liquid bulk carriers,1.2628,8
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Container ships,1.4583,14
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Dry breakbulk carriers,1.9486,11
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Dry bulk carriers,1.7198,10
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Roll-on/ roll-off ships,,12
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Liquefied petroleum gas carriers,0.9479,11
+2021S01,S1   2021,2021,S,Semi-annual,Australia,Liquefied natural gas carriers,1.2465,10
+2021S01,S1   2021,2021,S,Semi-annual,Canada,All ships,0.9726,28
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Passenger ships,,30
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Liquid bulk carriers,1.1007,12
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Container ships,1.8233,15
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Dry breakbulk carriers,0.8663,13
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Dry bulk carriers,0.5514,22
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Roll-on/ roll-off ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,Canada,Liquefied petroleum gas carriers,1.5292,9
+2021S01,S1   2021,2021,S,Semi-annual,China,All ships,1.134,14
+2021S01,S1   2021,2021,S,Semi-annual,China,Passenger ships,,14
+2021S01,S1   2021,2021,S,Semi-annual,China,Liquid bulk carriers,1.1684,12
+2021S01,S1   2021,2021,S,Semi-annual,China,Container ships,0.6806,13
+2021S01,S1   2021,2021,S,Semi-annual,China,Dry breakbulk carriers,1.4358,17
+2021S01,S1   2021,2021,S,Semi-annual,China,Dry bulk carriers,2.0292,14
+2021S01,S1   2021,2021,S,Semi-annual,China,Roll-on/ roll-off ships,,12
+2021S01,S1   2021,2021,S,Semi-annual,China,Liquefied petroleum gas carriers,1.0382,14
+2021S01,S1   2021,2021,S,Semi-annual,China,Liquefied natural gas carriers,1.1854,10
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,All ships,1.1587,16
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,Passenger ships,,16
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,Liquid bulk carriers,0.8729,15
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,Container ships,0.575,15
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,Dry breakbulk carriers,2.6444,23
+2021S01,S1   2021,2021,S,Semi-annual,Croatia,Dry bulk carriers,2.3125,28
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,All ships,0.7653,20
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Passenger ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Liquid bulk carriers,0.7076,17
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Container ships,0.4576,16
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Dry breakbulk carriers,0.8785,24
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Dry bulk carriers,0.8618,11
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Roll-on/ roll-off ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,Denmark,Liquefied petroleum gas carriers,1.0368,10
+2021S01,S1   2021,2021,S,Semi-annual,France,All ships,1.1799,17
+2021S01,S1   2021,2021,S,Semi-annual,France,Passenger ships,,18
+2021S01,S1   2021,2021,S,Semi-annual,France,Liquid bulk carriers,1.0399,13
+2021S01,S1   2021,2021,S,Semi-annual,France,Container ships,0.9333,14
+2021S01,S1   2021,2021,S,Semi-annual,France,Dry breakbulk carriers,1.6437,18
+2021S01,S1   2021,2021,S,Semi-annual,France,Dry bulk carriers,2.8882,15
+2021S01,S1   2021,2021,S,Semi-annual,France,Roll-on/ roll-off ships,,17
+2021S01,S1   2021,2021,S,Semi-annual,France,Liquefied petroleum gas carriers,1.0774,12
+2021S01,S1   2021,2021,S,Semi-annual,France,Liquefied natural gas carriers,1.1083,10
+2021S01,S1   2021,2021,S,Semi-annual,Germany,All ships,0.8444,19
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Passenger ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Liquid bulk carriers,0.5632,18
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Container ships,1.0833,14
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Dry breakbulk carriers,0.8663,21
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Dry bulk carriers,2.7833,12
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Roll-on/ roll-off ships,,17
+2021S01,S1   2021,2021,S,Semi-annual,Germany,Liquefied petroleum gas carriers,0.8677,15
+2021S01,S1   2021,2021,S,Semi-annual,Greece,All ships,0.8576,23
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Passenger ships,,22
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Liquid bulk carriers,0.6194,22
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Container ships,1.0184,16
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Dry breakbulk carriers,1.1469,33
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Dry bulk carriers,0.6378,26
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Roll-on/ roll-off ships,,33
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Liquefied petroleum gas carriers,1,23
+2021S01,S1   2021,2021,S,Semi-annual,Greece,Liquefied natural gas carriers,1.1715,11
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,All ships,1.2931,21
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Passenger ships,,22
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Liquid bulk carriers,1.3056,16
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Container ships,1.0451,15
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Dry breakbulk carriers,1.2118,21
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Dry bulk carriers,3.0396,17
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Roll-on/ roll-off ships,,32
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Liquefied petroleum gas carriers,1.0719,19
+2021S01,S1   2021,2021,S,Semi-annual,Indonesia,Liquefied natural gas carriers,1.4285,20
+2021S01,S1   2021,2021,S,Semi-annual,Italy,All ships,1.3326,28
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Passenger ships,,31
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Liquid bulk carriers,1.3257,17
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Container ships,0.9319,17
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Dry breakbulk carriers,1.9222,20
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Dry bulk carriers,3.325,16
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Roll-on/ roll-off ships,,13
+2021S01,S1   2021,2021,S,Semi-annual,Italy,Liquefied petroleum gas carriers,1.549,14
+2021S01,S1   2021,2021,S,Semi-annual,Japan,All ships,0.4146,14
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Passenger ships,,16
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Liquid bulk carriers,0.3111,12
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Container ships,0.3562,13
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Dry breakbulk carriers,1.1951,15
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Dry bulk carriers,0.9035,14
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Roll-on/ roll-off ships,,12
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Liquefied petroleum gas carriers,0.3153,14
+2021S01,S1   2021,2021,S,Semi-annual,Japan,Liquefied natural gas carriers,1.0222,13
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",All ships,0.9,15
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Passenger ships,,14
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Liquid bulk carriers,0.7667,13
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Container ships,0.6951,14
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Dry breakbulk carriers,1.2167,19
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Dry bulk carriers,2.0924,14
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Roll-on/ roll-off ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Liquefied petroleum gas carriers,0.8424,16
+2021S01,S1   2021,2021,S,Semi-annual,"Korea, Republic of",Liquefied natural gas carriers,1.0389,13
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,All ships,0.6104,17
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Passenger ships,,15
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Liquid bulk carriers,0.5326,17
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Container ships,0.8806,15
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Dry breakbulk carriers,0.4812,20
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Dry bulk carriers,1.0354,11
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Roll-on/ roll-off ships,,22
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Liquefied petroleum gas carriers,0.9132,15
+2021S01,S1   2021,2021,S,Semi-annual,Netherlands,Liquefied natural gas carriers,1.0118,6
+2021S01,S1   2021,2021,S,Semi-annual,Norway,All ships,0.4111,14
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Passenger ships,,13
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Liquid bulk carriers,0.6125,15
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Container ships,0.3493,16
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Dry breakbulk carriers,0.3125,24
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Dry bulk carriers,0.8847,16
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Roll-on/ roll-off ships,,18
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Liquefied petroleum gas carriers,0.8101,10
+2021S01,S1   2021,2021,S,Semi-annual,Norway,Liquefied natural gas carriers,0.2931,15
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,All ships,1.509,26
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Passenger ships,,37
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Liquid bulk carriers,1.1493,24
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Container ships,1.4118,16
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Dry breakbulk carriers,1.8573,32
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Dry bulk carriers,2.5472,15
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Roll-on/ roll-off ships,,32
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Liquefied petroleum gas carriers,1.6014,14
+2021S01,S1   2021,2021,S,Semi-annual,Russian Federation,Liquefied natural gas carriers,1.1187,9
+2021S01,S1   2021,2021,S,Semi-annual,Spain,All ships,0.9021,17
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Passenger ships,,19
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Liquid bulk carriers,0.9174,13
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Container ships,0.6451,15
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Dry breakbulk carriers,1.1653,17
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Dry bulk carriers,1.7694,16
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Roll-on/ roll-off ships,,20
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Liquefied petroleum gas carriers,1.0361,12
+2021S01,S1   2021,2021,S,Semi-annual,Spain,Liquefied natural gas carriers,1.0184,12
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,All ships,0.7736,23
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Passenger ships,,26
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Liquid bulk carriers,0.6528,15
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Container ships,0.6149,16
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Dry breakbulk carriers,1.0222,21
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Dry bulk carriers,0.4437,27
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Roll-on/ roll-off ships,,21
+2021S01,S1   2021,2021,S,Semi-annual,Sweden,Liquefied petroleum gas carriers,0.8076,15
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,All ships,1.1958,24
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Passenger ships,,25
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Liquid bulk carriers,1.192,14
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Container ships,0.6236,17
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Dry breakbulk carriers,1.4931,29
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Dry bulk carriers,3.7319,16
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Roll-on/ roll-off ships,,24
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Liquefied petroleum gas carriers,1.234,19
+2021S01,S1   2021,2021,S,Semi-annual,Turkey,Liquefied natural gas carriers,1.2569,10
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,All ships,1.5639,26
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Passenger ships,,30
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Liquid bulk carriers,1.5684,11
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Container ships,1.2069,15
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Dry breakbulk carriers,2.0076,17
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Dry bulk carriers,2.3632,17
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Roll-on/ roll-off ships,,14
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Liquefied petroleum gas carriers,1.8507,9
+2021S01,S1   2021,2021,S,Semi-annual,United States of America,Liquefied natural gas carriers,1.2844,6
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,All ships,1.1625,18
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Passenger ships,,19
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Liquid bulk carriers,1.0514,15
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Container ships,0.8035,16
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Dry breakbulk carriers,1.525,20
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Dry bulk carriers,2.9014,14
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Roll-on/ roll-off ships,,14
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Liquefied petroleum gas carriers,1.0556,12
+2021S01,S1   2021,2021,S,Semi-annual,United Kingdom,Liquefied natural gas carriers,1.2271,7
+2021S02,S2   2021,2021,S,Semi-annual,World,All ships,1.0507,18
+2021S02,S2   2021,2021,S,Semi-annual,World,Passenger ships,,20
+2021S02,S2   2021,2021,S,Semi-annual,World,Liquid bulk carriers,0.9771,14
+2021S02,S2   2021,2021,S,Semi-annual,World,Container ships,0.8306,14
+2021S02,S2   2021,2021,S,Semi-annual,World,Dry breakbulk carriers,1.1583,21
+2021S02,S2   2021,2021,S,Semi-annual,World,Dry bulk carriers,2.0826,14
+2021S02,S2   2021,2021,S,Semi-annual,World,Roll-on/ roll-off ships,,17
+2021S02,S2   2021,2021,S,Semi-annual,World,Liquefied petroleum gas carriers,1.0229,15
+2021S02,S2   2021,2021,S,Semi-annual,World,Liquefied natural gas carriers,1.1313,11
+2021S02,S2   2021,2021,S,Semi-annual,Australia,All ships,1.5646,19
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Passenger ships,,30
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Liquid bulk carriers,1.3135,8
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Container ships,1.6972,14
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Dry breakbulk carriers,1.9854,11
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Dry bulk carriers,1.6417,10
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Roll-on/ roll-off ships,,10
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Liquefied petroleum gas carriers,0.8778,10
+2021S02,S2   2021,2021,S,Semi-annual,Australia,Liquefied natural gas carriers,1.2674,9
+2021S02,S2   2021,2021,S,Semi-annual,Canada,All ships,0.5889,26
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Passenger ships,,28
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Liquid bulk carriers,1.0264,12
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Container ships,1.7677,15
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Dry breakbulk carriers,0.6667,13
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Dry bulk carriers,0.1885,23
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Roll-on/ roll-off ships,,24
+2021S02,S2   2021,2021,S,Semi-annual,Canada,Liquefied petroleum gas carriers,1.4889,7
+2021S02,S2   2021,2021,S,Semi-annual,China,All ships,1.1681,13
+2021S02,S2   2021,2021,S,Semi-annual,China,Passenger ships,,14
+2021S02,S2   2021,2021,S,Semi-annual,China,Liquid bulk carriers,1.1257,12
+2021S02,S2   2021,2021,S,Semi-annual,China,Container ships,0.7799,13
+2021S02,S2   2021,2021,S,Semi-annual,China,Dry breakbulk carriers,1.5639,17
+2021S02,S2   2021,2021,S,Semi-annual,China,Dry bulk carriers,2.066,14
+2021S02,S2   2021,2021,S,Semi-annual,China,Roll-on/ roll-off ships,,12
+2021S02,S2   2021,2021,S,Semi-annual,China,Liquefied petroleum gas carriers,1.0472,14
+2021S02,S2   2021,2021,S,Semi-annual,China,Liquefied natural gas carriers,1.1965,9
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,All ships,1.1986,17
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Passenger ships,,16
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Liquid bulk carriers,0.9427,15
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Container ships,0.6361,14
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Dry breakbulk carriers,2.2302,23
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Dry bulk carriers,2.5451,29
+2021S02,S2   2021,2021,S,Semi-annual,Croatia,Liquefied natural gas carriers,1.5611,8
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,All ships,0.7354,20
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Passenger ships,,20
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Liquid bulk carriers,0.684,17
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Container ships,0.5358,14
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Dry breakbulk carriers,0.8142,24
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Dry bulk carriers,0.7601,11
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Roll-on/ roll-off ships,,20
+2021S02,S2   2021,2021,S,Semi-annual,Denmark,Liquefied petroleum gas carriers,1.1243,14
+2021S02,S2   2021,2021,S,Semi-annual,France,All ships,1.1521,17
+2021S02,S2   2021,2021,S,Semi-annual,France,Passenger ships,,18
+2021S02,S2   2021,2021,S,Semi-annual,France,Liquid bulk carriers,1.0111,13
+2021S02,S2   2021,2021,S,Semi-annual,France,Container ships,0.9913,13
+2021S02,S2   2021,2021,S,Semi-annual,France,Dry breakbulk carriers,1.5056,17
+2021S02,S2   2021,2021,S,Semi-annual,France,Dry bulk carriers,3.0708,13
+2021S02,S2   2021,2021,S,Semi-annual,France,Roll-on/ roll-off ships,,18
+2021S02,S2   2021,2021,S,Semi-annual,France,Liquefied petroleum gas carriers,1.0868,12
+2021S02,S2   2021,2021,S,Semi-annual,France,Liquefied natural gas carriers,1.1413,11
+2021S02,S2   2021,2021,S,Semi-annual,Germany,All ships,0.833,19
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Passenger ships,,21
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Liquid bulk carriers,0.5462,17
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Container ships,1.1785,13
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Dry breakbulk carriers,0.8354,21
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Dry bulk carriers,2.2729,11
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Roll-on/ roll-off ships,,17
+2021S02,S2   2021,2021,S,Semi-annual,Germany,Liquefied petroleum gas carriers,0.8875,14
+2021S02,S2   2021,2021,S,Semi-annual,Greece,All ships,0.8368,22
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Passenger ships,,21
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Liquid bulk carriers,0.6125,21
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Container ships,1.0719,16
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Dry breakbulk carriers,1.1465,33
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Dry bulk carriers,0.6417,26
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Roll-on/ roll-off ships,,35
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Liquefied petroleum gas carriers,0.9847,24
+2021S02,S2   2021,2021,S,Semi-annual,Greece,Liquefied natural gas carriers,1.2674,9
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,All ships,1.2854,20
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Passenger ships,,22
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Liquid bulk carriers,1.3021,15
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Container ships,1.0819,15
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Dry breakbulk carriers,1.1538,21
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Dry bulk carriers,2.5524,18
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Roll-on/ roll-off ships,,32
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Liquefied petroleum gas carriers,1.0833,20
+2021S02,S2   2021,2021,S,Semi-annual,Indonesia,Liquefied natural gas carriers,1.4222,16
+2021S02,S2   2021,2021,S,Semi-annual,Italy,All ships,1.3576,28
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Passenger ships,,30
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Liquid bulk carriers,1.2493,19
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Container ships,0.9965,16
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Dry breakbulk carriers,2.0097,19
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Dry bulk carriers,3.666,14
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Roll-on/ roll-off ships,,13
+2021S02,S2   2021,2021,S,Semi-annual,Italy,Liquefied petroleum gas carriers,1.7306,14
+2021S02,S2   2021,2021,S,Semi-annual,Japan,All ships,0.4174,13
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Passenger ships,,15
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Liquid bulk carriers,0.3104,12
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Container ships,0.3708,13
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Dry breakbulk carriers,1.1913,14
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Dry bulk carriers,0.7552,13
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Roll-on/ roll-off ships,,11
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Liquefied petroleum gas carriers,0.3222,13
+2021S02,S2   2021,2021,S,Semi-annual,Japan,Liquefied natural gas carriers,1.0347,13
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",All ships,0.8889,15
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Passenger ships,,11
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Liquid bulk carriers,0.7382,13
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Container ships,0.7354,13
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Dry breakbulk carriers,1.1583,19
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Dry bulk carriers,2.184,13
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Roll-on/ roll-off ships,,20
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Liquefied petroleum gas carriers,0.8,14
+2021S02,S2   2021,2021,S,Semi-annual,"Korea, Republic of",Liquefied natural gas carriers,1.05,11
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,All ships,0.6257,17
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Passenger ships,,14
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Liquid bulk carriers,0.6083,17
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Container ships,0.8944,15
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Dry breakbulk carriers,0.3896,20
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Dry bulk carriers,1.3604,10
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Roll-on/ roll-off ships,,21
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Liquefied petroleum gas carriers,0.9896,14
+2021S02,S2   2021,2021,S,Semi-annual,Netherlands,Liquefied natural gas carriers,1.0299,8
+2021S02,S2   2021,2021,S,Semi-annual,Norway,All ships,0.4215,13
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Passenger ships,,12
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Liquid bulk carriers,0.5833,15
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Container ships,0.3521,16
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Dry breakbulk carriers,0.3368,24
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Dry bulk carriers,0.7549,17
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Roll-on/ roll-off ships,,17
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Liquefied petroleum gas carriers,0.8951,10
+2021S02,S2   2021,2021,S,Semi-annual,Norway,Liquefied natural gas carriers,0.2889,15
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,All ships,1.4285,25
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Passenger ships,,28
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Liquid bulk carriers,1.0597,22
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Container ships,1.7104,16
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Dry breakbulk carriers,1.7194,30
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Dry bulk carriers,2.4868,16
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Roll-on/ roll-off ships,,28
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Liquefied petroleum gas carriers,1.4708,18
+2021S02,S2   2021,2021,S,Semi-annual,Russian Federation,Liquefied natural gas carriers,1.15,10
+2021S02,S2   2021,2021,S,Semi-annual,Spain,All ships,0.9007,17
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Passenger ships,,19
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Liquid bulk carriers,0.8868,12
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Container ships,0.6563,15
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Dry breakbulk carriers,1.2007,16
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Dry bulk carriers,1.7875,15
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Roll-on/ roll-off ships,,13
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Liquefied petroleum gas carriers,1.0035,12
+2021S02,S2   2021,2021,S,Semi-annual,Spain,Liquefied natural gas carriers,1.0812,10
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,All ships,0.7694,23
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Passenger ships,,25
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Liquid bulk carriers,0.6667,14
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Container ships,0.7024,15
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Dry breakbulk carriers,0.9854,22
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Dry bulk carriers,0.467,25
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Roll-on/ roll-off ships,,20
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Liquefied petroleum gas carriers,0.8069,15
+2021S02,S2   2021,2021,S,Semi-annual,Sweden,Liquefied natural gas carriers,0.7069,7
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,All ships,1.2347,24
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Passenger ships,,25
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Liquid bulk carriers,1.1521,14
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Container ships,0.6382,17
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Dry breakbulk carriers,1.5764,28
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Dry bulk carriers,4.0833,16
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Roll-on/ roll-off ships,,25
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Liquefied petroleum gas carriers,1.1903,20
+2021S02,S2   2021,2021,S,Semi-annual,Turkey,Liquefied natural gas carriers,1.1563,8
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,All ships,1.5861,26
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Passenger ships,,30
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Liquid bulk carriers,1.6201,11
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Container ships,1.2958,15
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Dry breakbulk carriers,2.0563,16
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Dry bulk carriers,2.0778,20
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Roll-on/ roll-off ships,,13
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Liquefied petroleum gas carriers,1.8135,9
+2021S02,S2   2021,2021,S,Semi-annual,United States of America,Liquefied natural gas carriers,1.2521,6
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,All ships,1.1639,18
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Passenger ships,,18
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Liquid bulk carriers,1.0438,14
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Container ships,0.8503,16
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Dry breakbulk carriers,1.5236,19
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Dry bulk carriers,3.049,13
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Roll-on/ roll-off ships,,15
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Liquefied petroleum gas carriers,1.0486,11
+2021S02,S2   2021,2021,S,Semi-annual,United Kingdom,Liquefied natural gas carriers,1.234,8
+=======
+Period,Period Label,Year,Frequency,Frequency Label,Economy,Economy Label,CommercialMarket,CommercialMarket Label,Median time in port (days),Median time in port (days) Footnote,Average age of vessels,Average age of vessels Footnote,Average size (GT) of vessels,Average size (GT) of vessels Footnote,Maximum size (GT) of vessels,Maximum size (GT) of vessels Footnote,Average cargo carrying capacity (dwt) per vessel,Average cargo carrying capacity (dwt) per vessel Footnote,Maximum cargo carrying capacity (dwt) of vessels,Maximum cargo carrying capacity (dwt) of vessels Footnote,Average container carrying capacity (TEU) per container ship,Average container carrying capacity (TEU) per container ship Footnote,Maximum container carrying capacity (TEU) of container ships,Maximum container carrying capacity (TEU) of container ships Footnote
+2020S01,S1   2020,2020,S,Semi-annual,0,World,0,All ships,0.9944,,18,,15125,,235500,,25118,,441561,,3516,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,1,Passenger ships,,,20,,7977,,228081,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,2,Liquid bulk carriers,0.9701,,14,,15828,,234006,,27469,,441561,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,3,Container ships,0.6861,,14,,37990,,235500,,,,,,3516,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,4,Dry breakbulk carriers,1.1757,,21,,5469,,91784,,7443,,116173,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,5,Dry bulk carriers,2.0868,,14,,32270,,204014,,57693,,404389,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,6,Roll-on/ roll-off ships,,,17,,25093,,100430,,10141,,55828,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,7,Liquefied petroleum gas carriers,1.0389,,15,,10848,,59226,,12214,,64220,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,0,World,8,Liquefied natural gas carriers,1.1111,,11,,96625,,168189,,75321,,156000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,0,All ships,1.4889,,21,,25790,,169379,,81834,,299688,,4653,,9572,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,1,Passenger ships,,,29,,4608,,169379,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,2,Liquid bulk carriers,1.2563,,8,,22571,,85496,,38315,,164274,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,3,Container ships,1.3083,,13,,50747,,109712,,,,,,4653,,9572,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,4,Dry breakbulk carriers,2.226,,12,,22170,,54725,,31804,,80500,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,5,Dry bulk carriers,1.6215,,10,,59257,,152457,,110888,,299688,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,6,Roll-on/ roll-off ships,,,13,,37141,,76420,,14643,,43878,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,7,Liquefied petroleum gas carriers,0.9323,,10,,13740,,50676,,15648,,58591,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,36,Australia,8,Liquefied natural gas carriers,1.1851,,9,,111338,,144978,,85324,,97730,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,0,All ships,0.9944,,27,,11129,,170618,,35515,,320780,,5192,,14414,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,1,Passenger ships,,,31,,6277,,149215,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,2,Liquid bulk carriers,1.0917,,12,,23713,,170618,,39795,,320780,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,3,Container ships,1.6229,,14,,57154,,153666,,,,,,5192,,14414,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,4,Dry breakbulk carriers,1.0125,,13,,13242,,41580,,18517,,56816,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,5,Dry bulk carriers,0.5833,,21,,29092,,109500,,49986,,209954,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,6,Roll-on/ roll-off ships,,,18,,10842,,100430,,6098,,55828,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,124,Canada,7,Liquefied petroleum gas carriers,1.4882,,11,,41307,,51035,,48907,,54804,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,0,All ships,1.0556,,13,,32136,,235500,,45636,,404389,,4665,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,1,Passenger ships,,,12,,15223,,169379,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,2,Liquid bulk carriers,1.1132,,11,,19487,,170004,,34000,,323182,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,3,Container ships,0.5951,,12,,49840,,235500,,,,,,4665,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,4,Dry breakbulk carriers,1.2507,,17,,10009,,91649,,14189,,101496,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,5,Dry bulk carriers,2.0215,,13,,41352,,204014,,75286,,404389,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,6,Roll-on/ roll-off ships,,,14,,34409,,76420,,11208,,43878,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,7,Liquefied petroleum gas carriers,1.0083,,15,,8225,,59226,,9047,,64220,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,156,China,8,Liquefied natural gas carriers,1.1778,,10,,95555,,168189,,76135,,155159,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,0,All ships,1.1111,,17,,3635,,153744,,14636,,178361,,2951,,15226,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,1,Passenger ships,,,16,,3175,,128052,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,2,Liquid bulk carriers,0.9476,,14,,15627,,83545,,26853,,159999,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,3,Container ships,0.6507,,13,,31594,,153744,,,,,,2951,,15226,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,4,Dry breakbulk carriers,2.1979,,22,,4712,,45349,,6275,,52037,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,191,Croatia,5,Dry bulk carriers,1.7819,,35,,7300,,94035,,12040,,178361,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,0,All ships,0.7868,,19,,9477,,214286,,7567,,159233,,1813,,19630,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,1,Passenger ships,,,19,,9814,,75156,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,2,Liquid bulk carriers,0.7076,,16,,8498,,90000,,13469,,159233,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,3,Container ships,0.4458,,18,,19275,,214286,,,,,,1813,,19630,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,4,Dry breakbulk carriers,0.9441,,24,,3025,,24778,,4081,,33217,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,5,Dry bulk carriers,0.858,,15,,8922,,54486,,14477,,95263,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,6,Roll-on/ roll-off ships,,,20,,20676,,59217,,12435,,24485,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,208,Denmark,7,Liquefied petroleum gas carriers,1.0302,,11,,5125,,20151,,5719,,24281,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,0,All ships,1.2042,,16,,22519,,235500,,16967,,320926,,5012,,23656,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,1,Passenger ships,,,17,,24270,,183900,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,2,Liquid bulk carriers,1.0958,,13,,11924,,166308,,19798,,320926,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,3,Container ships,0.8062,,14,,55802,,235500,,,,,,5012,,23656,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,4,Dry breakbulk carriers,1.7167,,17,,4627,,46112,,6471,,72924,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,5,Dry bulk carriers,3.1076,,13,,23795,,106952,,40825,,205203,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,6,Roll-on/ roll-off ships,,,16,,29581,,76420,,11906,,45200,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,7,Liquefied petroleum gas carriers,1.1017,,12,,8674,,48167,,9743,,58610,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,251,France,8,Liquefied natural gas carriers,1.1625,,9,,106800,,163922,,82536,,130026,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,0,All ships,0.8205,,19,,14244,,232618,,9305,,297638,,4455,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,1,Passenger ships,,,20,,12043,,125572,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,2,Liquid bulk carriers,0.5208,,17,,5045,,157316,,8436,,297638,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,3,Container ships,0.9667,,13,,48606,,232618,,,,,,4455,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,4,Dry breakbulk carriers,1.0104,,21,,3683,,71543,,4852,,62053,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,5,Dry bulk carriers,2.6139,,14,,27377,,109716,,47845,,211081,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,6,Roll-on/ roll-off ships,,,16,,30253,,100430,,12041,,55828,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,276,Germany,7,Liquefied petroleum gas carriers,0.8333,,13,,5416,,26261,,5922,,38427,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,0,All ships,0.849,,21,,8161,,215553,,7628,,174008,,3699,,21413,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,1,Passenger ships,,,19,,7240,,168666,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,2,Liquid bulk carriers,0.6354,,22,,5511,,87146,,8796,,167295,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,3,Container ships,0.9861,,16,,39631,,215553,,,,,,3699,,21413,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,4,Dry breakbulk carriers,1.2424,,33,,2767,,22064,,3875,,33422,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,5,Dry bulk carriers,0.4056,,26,,5981,,88930,,10076,,174008,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,6,Roll-on/ roll-off ships,,,32,,16602,,76420,,6983,,28818,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,7,Liquefied petroleum gas carriers,0.9722,,23,,5687,,17242,,6770,,18111,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,300,Greece,8,Liquefied natural gas carriers,1.2007,,11,,113469,,136980,,96312,,156000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,0,All ships,1.2271,,21,,7842,,172000,,16280,,209325,,1534,,14855,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,1,Passenger ships,,,23,,4982,,110239,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,2,Liquid bulk carriers,1.1972,,16,,7718,,81866,,11910,,159313,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,3,Container ships,0.9799,,14,,15882,,172000,,,,,,1534,,14855,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,4,Dry breakbulk carriers,1.2073,,20,,4910,,49718,,6594,,81279,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,5,Dry bulk carriers,3.2125,,17,,25187,,108100,,44196,,209325,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,6,Roll-on/ roll-off ships,,,34,,9358,,66802,,4421,,22438,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,7,Liquefied petroleum gas carriers,1.0788,,20,,9878,,50676,,10998,,58899,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,360,Indonesia,8,Liquefied natural gas carriers,1.4003,,20,,87301,,139049,,68621,,97794,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,0,All ships,1.3111,,26,,9657,,232618,,18260,,298563,,4031,,23756,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,1,Passenger ships,,,29,,5955,,183900,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,2,Liquid bulk carriers,1.2986,,17,,16104,,159087,,27280,,298563,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,3,Container ships,0.916,,16,,44139,,232618,,,,,,4031,,23756,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,4,Dry breakbulk carriers,2.0542,,20,,6031,,46112,,8180,,72924,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,5,Dry bulk carriers,3.6125,,14,,22371,,94542,,38155,,181110,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,6,Roll-on/ roll-off ships,,,13,,31381,,76420,,12485,,45200,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,380,Italy,7,Liquefied petroleum gas carriers,1.5465,,12,,8925,,25079,,9982,,28100,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,0,All ships,0.3993,,14,,10709,,201989,,14947,,400440,,1600,,18400,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,1,Passenger ships,,,16,,5109,,169379,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,2,Liquid bulk carriers,0.3063,,12,,8069,,167578,,13715,,321137,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,3,Container ships,0.3354,,13,,16666,,192237,,,,,,1600,,18400,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,4,Dry breakbulk carriers,1.1708,,15,,6497,,49854,,8754,,80500,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,5,Dry bulk carriers,0.8396,,14,,17103,,201989,,29737,,400440,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,6,Roll-on/ roll-off ships,,,12,,16757,,76420,,7291,,43878,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,7,Liquefied petroleum gas carriers,0.3403,,15,,6559,,51035,,7191,,58811,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,392,Japan,8,Liquefied natural gas carriers,0.9958,,14,,71816,,149367,,52010,,121963,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",0,All ships,0.8431,,15,,21260,,235500,,23537,,326932,,3003,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",1,Passenger ships,,,17,,17860,,169379,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",2,Liquid bulk carriers,0.8056,,13,,15490,,170004,,26991,,321300,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",3,Container ships,0.6153,,13,,32135,,235500,,,,,,3003,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",4,Dry breakbulk carriers,1.2375,,18,,5397,,91649,,7664,,101496,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",5,Dry bulk carriers,2.0333,,15,,28617,,172521,,51555,,326932,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",6,Roll-on/ roll-off ships,,,18,,29822,,76420,,12030,,43878,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",7,Liquefied petroleum gas carriers,0.8674,,17,,7986,,49394,,8647,,58811,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,410,"Korea, Republic of",8,Liquefied natural gas carriers,1.025,,12,,109849,,168189,,86196,,155159,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,0,All ships,0.5889,,17,,13223,,235500,,14360,,320926,,2997,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,1,Passenger ships,,,15,,14748,,150695,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,2,Liquid bulk carriers,0.5472,,16,,9914,,166308,,18084,,320926,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,3,Container ships,0.7917,,14,,32410,,235500,,,,,,2997,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,4,Dry breakbulk carriers,0.4,,19,,3830,,71543,,5200,,88272,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,5,Dry bulk carriers,0.2111,,11,,34763,,118305,,61408,,233584,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,6,Roll-on/ roll-off ships,,,22,,16876,,76420,,6704,,32246,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,7,Liquefied petroleum gas carriers,0.9757,,12,,7553,,48542,,8530,,55209,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,528,Netherlands,8,Liquefied natural gas carriers,1.0326,,5,,71706,,139050,,55103,,109661,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,0,All ships,0.4028,,15,,4023,,165680,,7354,,320392,,839,,1730,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,1,Passenger ships,,,14,,3837,,76152,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,2,Liquid bulk carriers,0.6035,,15,,13187,,165680,,21566,,320392,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,3,Container ships,0.3295,,16,,8836,,16802,,,,,,839,,1730,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,4,Dry breakbulk carriers,0.3042,,23,,2771,,39258,,3277,,61860,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,5,Dry bulk carriers,0.8472,,15,,17279,,109716,,29272,,211081,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,6,Roll-on/ roll-off ships,,,18,,10317,,67378,,6252,,28388,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,7,Liquefied petroleum gas carriers,0.7705,,11,,11114,,48060,,12364,,55209,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,579,Norway,8,Liquefied natural gas carriers,0.2576,,14,,19219,,121597,,13676,,95743,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,0,All ships,1.4424,,25,,12096,,164796,,17904,,317502,,1516,,9400,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,1,Passenger ships,,,36,,8247,,12288,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,2,Liquid bulk carriers,1.1437,,23,,14062,,164796,,23851,,317502,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,3,Container ships,1.3253,,18,,16717,,95256,,,,,,1516,,9400,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,4,Dry breakbulk carriers,1.7493,,31,,4036,,43528,,5138,,62053,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,5,Dry bulk carriers,2.4722,,13,,28189,,95309,,49351,,182618,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,6,Roll-on/ roll-off ships,,,31,,10917,,43810,,5739,,22910,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,7,Liquefied petroleum gas carriers,1.3903,,11,,9461,,27725,,11016,,41158,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,643,Russian Federation,8,Liquefied natural gas carriers,1.0688,,8,,102837,,133948,,75224,,97000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,0,All ships,0.9021,,17,,16447,,232618,,14031,,208000,,3257,,23756,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,1,Passenger ships,,,19,,13475,,220000,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,2,Liquid bulk carriers,0.9007,,12,,10418,,87146,,16963,,166300,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,3,Container ships,0.6632,,15,,35800,,232618,,,,,,3257,,23756,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,4,Dry breakbulk carriers,1.2389,,16,,5262,,71543,,7285,,62980,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,5,Dry bulk carriers,1.8323,,17,,21521,,107737,,36923,,208000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,6,Roll-on/ roll-off ships,,,17,,22643,,76420,,8174,,45200,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,7,Liquefied petroleum gas carriers,1.0097,,14,,9308,,48502,,10977,,58610,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,724,Spain,8,Liquefied natural gas carriers,1.0375,,9,,95855,,136980,,76071,,156000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,0,All ships,0.8087,,22,,15352,,214286,,9067,,307284,,1550,,19630,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,1,Passenger ships,,,24,,18612,,58377,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,2,Liquid bulk carriers,0.6983,,14,,8963,,159911,,13799,,307284,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,3,Container ships,0.6361,,15,,16616,,214286,,,,,,1550,,19630,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,4,Dry breakbulk carriers,1.0552,,21,,3766,,43788,,5275,,55807,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,5,Dry bulk carriers,0.4979,,29,,7279,,44043,,10680,,82654,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,6,Roll-on/ roll-off ships,,,20,,27029,,75283,,10236,,31143,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,752,Sweden,7,Liquefied petroleum gas carriers,0.849,,14,,7823,,48655,,8567,,54655,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,0,All ships,1.1858,,25,,6122,,194308,,16083,,303994,,3070,,19462,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,1,Passenger ships,,,26,,1610,,54310,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,2,Liquid bulk carriers,1.1976,,14,,17594,,159872,,30362,,303994,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,3,Container ships,0.6056,,17,,33838,,194308,,,,,,3070,,19462,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,4,Dry breakbulk carriers,1.5215,,28,,4127,,43528,,5793,,62051,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,5,Dry bulk carriers,3.8139,,15,,25579,,95276,,44189,,183049,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,6,Roll-on/ roll-off ships,,,25,,21251,,76420,,8092,,45200,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,7,Liquefied petroleum gas carriers,1.2319,,16,,19028,,49394,,21692,,55047,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,792,Turkey,8,Liquefied natural gas carriers,1.2951,,11,,113016,,137535,,92401,,122079,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,0,All ships,1.4625,,24,,16172,,232618,,47874,,323183,,5237,,22000,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,1,Passenger ships,,,28,,6944,,228081,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,2,Liquid bulk carriers,1.6444,,11,,35206,,170618,,60894,,323183,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,3,Container ships,1.0132,,14,,58188,,232618,,,,,,5237,,22000,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,4,Dry breakbulk carriers,1.9313,,18,,12981,,91649,,18034,,101496,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,5,Dry bulk carriers,2.1361,,17,,29196,,109824,,51120,,211081,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,6,Roll-on/ roll-off ships,,,13,,59500,,100430,,22578,,55828,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,7,Liquefied petroleum gas carriers,1.9736,,9,,31372,,59226,,35840,,59138,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,842,United States of America,8,Liquefied natural gas carriers,1.2222,,6,,104630,,149367,,83373,,156000,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,0,All ships,1.1014,,17,,15309,,235500,,12920,,321300,,3359,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,1,Passenger ships,,,17,,13982,,220000,,,,,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,2,Liquid bulk carriers,1.0521,,14,,12857,,164364,,21568,,321300,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,3,Container ships,0.7083,,15,,36628,,235500,,,,,,3359,,23964,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,4,Dry breakbulk carriers,1.5222,,19,,3339,,71543,,4595,,55973,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,5,Dry bulk carriers,2.5,,12,,28023,,95047,,48378,,181305,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,6,Roll-on/ roll-off ships,,,14,,23979,,100430,,9788,,55828,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,7,Liquefied petroleum gas carriers,1.0698,,12,,7081,,47342,,7500,,54561,,,,,
+2020S01,S1   2020,2020,S,Semi-annual,926,United Kingdom,8,Liquefied natural gas carriers,1.3566,,8,,115061,,168189,,93633,,154940,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,0,All ships,1.0021,,18,,14242,,237200,,24800,,404389,,3575,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,1,Passenger ships,,,20,,6971,,228081,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,2,Liquid bulk carriers,0.966,,14,,15581,,170618,,27016,,323183,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,3,Container ships,0.7257,,13,,38614,,237200,,,,,,3575,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,4,Dry breakbulk carriers,1.1278,,21,,5411,,91784,,7370,,116173,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,5,Dry bulk carriers,2.0465,,14,,32028,,204014,,57225,,404389,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,6,Roll-on/ roll-off ships,,,17,,25670,,100430,,10338,,55828,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,7,Liquefied petroleum gas carriers,1.0444,,14,,10806,,59229,,12118,,64220,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,0,World,8,Liquefied natural gas carriers,1.1281,,11,,93946,,168189,,73163,,155159,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,0,All ships,1.5229,,20,,26294,,152457,,81407,,299688,,4904,,9572,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,1,Passenger ships,,,30,,2147,,29338,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,2,Liquid bulk carriers,1.2965,,8,,23220,,85030,,39381,,159021,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,3,Container ships,1.5545,,13,,54260,,109712,,,,,,4904,,9572,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,4,Dry breakbulk carriers,1.8535,,11,,18710,,91649,,27419,,101496,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,5,Dry bulk carriers,1.6028,,10,,59500,,152457,,111350,,299688,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,6,Roll-on/ roll-off ships,,,12,,38900,,76420,,14812,,43878,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,7,Liquefied petroleum gas carriers,0.8938,,9,,13423,,51035,,15218,,58591,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,36,Australia,8,Liquefied natural gas carriers,1.2038,,9,,112262,,144978,,85355,,97730,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,0,All ships,0.625,,26,,11019,,172000,,34074,,317713,,5309,,15128,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,1,Passenger ships,,,29,,6174,,30285,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,2,Liquid bulk carriers,1.0806,,11,,23487,,160882,,39126,,317713,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,3,Container ships,1.8628,,13,,59250,,172000,,,,,,5309,,15128,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,4,Dry breakbulk carriers,0.4313,,12,,11097,,49091,,15401,,63581,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,5,Dry bulk carriers,0.2792,,23,,26662,,109731,,45192,,210000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,6,Roll-on/ roll-off ships,,,19,,10982,,100430,,6159,,55828,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,124,Canada,7,Liquefied petroleum gas carriers,1.5288,,12,,42200,,51035,,50392,,58591,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,0,All ships,1.0958,,13,,32371,,237200,,46177,,404389,,4611,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,1,Passenger ships,,,13,,16135,,169379,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,2,Liquid bulk carriers,1.1646,,11,,21058,,170618,,36953,,323183,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,3,Container ships,0.6479,,12,,49176,,237200,,,,,,4611,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,4,Dry breakbulk carriers,1.2924,,16,,10187,,91784,,14433,,116173,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,5,Dry bulk carriers,2.0146,,13,,40533,,204014,,73659,,404389,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,6,Roll-on/ roll-off ships,,,13,,35035,,76420,,11561,,43878,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,7,Liquefied petroleum gas carriers,1.0368,,13,,9364,,59229,,10242,,64220,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,156,China,8,Liquefied natural gas carriers,1.2007,,9,,96938,,168189,,77220,,154940,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,0,All ships,1.1118,,15,,3463,,153744,,16472,,177657,,3355,,15226,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,1,Passenger ships,,,15,,3081,,69472,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,2,Liquid bulk carriers,0.8951,,14,,17317,,84850,,30212,,164733,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,3,Container ships,0.5719,,14,,35287,,153744,,,,,,3355,,15226,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,4,Dry breakbulk carriers,2.3253,,22,,4936,,30983,,6673,,54204,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,191,Croatia,5,Dry bulk carriers,2.5951,,34,,8338,,91775,,13808,,177657,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,0,All ships,0.7601,,19,,9593,,214286,,7517,,159314,,1763,,19630,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,1,Passenger ships,,,19,,9884,,168800,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,2,Liquid bulk carriers,0.6837,,16,,8168,,90000,,12868,,159314,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,3,Container ships,0.4483,,14,,19649,,214286,,,,,,1763,,19630,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,4,Dry breakbulk carriers,0.9118,,24,,3017,,40169,,4076,,48821,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,5,Dry bulk carriers,0.8618,,11,,8983,,49973,,14551,,92598,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,6,Roll-on/ roll-off ships,,,19,,21721,,60500,,12069,,24485,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,208,Denmark,7,Liquefied petroleum gas carriers,1.059,,12,,4178,,9835,,4764,,12008,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,0,All ships,1.1035,,16,,20900,,236583,,15896,,317794,,5157,,23000,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,1,Passenger ships,,,18,,21080,,183900,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,2,Liquid bulk carriers,1.0194,,13,,11352,,160882,,18769,,317794,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,3,Container ships,0.7615,,13,,57442,,236583,,,,,,5157,,23000,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,4,Dry breakbulk carriers,1.5778,,17,,4634,,41580,,6364,,62045,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,5,Dry bulk carriers,2.7743,,13,,23590,,94544,,41470,,182913,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,6,Roll-on/ roll-off ships,,,15,,30804,,76420,,12172,,48988,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,7,Liquefied petroleum gas carriers,1.1583,,11,,9584,,48060,,10733,,54592,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,251,France,8,Liquefied natural gas carriers,1.167,,9,,101818,,163922,,80128,,130298,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,0,All ships,0.7958,,19,,13227,,236583,,8822,,319000,,4429,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,1,Passenger ships,,,20,,11060,,111554,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,2,Liquid bulk carriers,0.5049,,18,,4713,,160874,,7705,,319000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,3,Container ships,1,,13,,49059,,236583,,,,,,4429,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,4,Dry breakbulk carriers,0.9069,,21,,3536,,44866,,4675,,72400,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,5,Dry bulk carriers,2.2295,,12,,28942,,109716,,50301,,209240,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,6,Roll-on/ roll-off ships,,,17,,29254,,100430,,11668,,55828,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,276,Germany,7,Liquefied petroleum gas carriers,0.8528,,13,,5603,,48963,,6097,,54656,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,0,All ships,0.7997,,22,,7909,,215553,,7544,,166300,,4073,,21413,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,1,Passenger ships,,,21,,7100,,168666,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,2,Liquid bulk carriers,0.6007,,21,,5651,,87146,,8979,,166300,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,3,Container ships,0.9729,,15,,43799,,215553,,,,,,4073,,21413,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,4,Dry breakbulk carriers,1.0951,,33,,2745,,66870,,3816,,71955,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,5,Dry bulk carriers,0.4455,,26,,6007,,44180,,10038,,83002,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,6,Roll-on/ roll-off ships,,,31,,16392,,76420,,6967,,48988,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,7,Liquefied petroleum gas carriers,1.0007,,24,,4925,,16808,,5839,,18955,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,300,Greece,8,Liquefied natural gas carriers,1.2955,,10,,107042,,137535,,83719,,121730,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,0,All ships,1.2174,,20,,7510,,157098,,15917,,300542,,1486,,6921,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,1,Passenger ships,,,21,,4842,,20563,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,2,Liquid bulk carriers,1.241,,15,,8141,,157098,,12627,,300542,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,3,Container ships,0.9958,,14,,15090,,75579,,,,,,1486,,6921,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,4,Dry breakbulk carriers,1.0896,,20,,5056,,49854,,6594,,65035,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,5,Dry bulk carriers,2.9785,,17,,24600,,108051,,43036,,209951,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,6,Roll-on/ roll-off ships,,,33,,8554,,76387,,3935,,21021,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,7,Liquefied petroleum gas carriers,1.1049,,19,,9832,,49394,,10827,,58899,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,360,Indonesia,8,Liquefied natural gas carriers,1.4076,,18,,82744,,133948,,65485,,94494,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,0,All ships,1.3101,,27,,9333,,232618,,17621,,181403,,3742,,23756,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,1,Passenger ships,,,29,,6655,,183900,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,2,Liquid bulk carriers,1.2729,,18,,15657,,86952,,26391,,166467,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,3,Container ships,0.9264,,16,,41266,,232618,,,,,,3742,,23756,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,4,Dry breakbulk carriers,2.0264,,19,,6097,,66870,,8434,,71955,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,5,Dry bulk carriers,3.4809,,16,,20964,,93010,,35826,,181403,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,6,Roll-on/ roll-off ships,,,13,,30551,,76420,,12217,,45200,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,380,Italy,7,Liquefied petroleum gas carriers,1.7056,,13,,8420,,25937,,9547,,29565,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,0,All ships,0.3951,,13,,10656,,192237,,14583,,327017,,1641,,18400,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,1,Passenger ships,,,15,,4831,,50444,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,2,Liquid bulk carriers,0.3118,,12,,7687,,162858,,12957,,318000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,3,Container ships,0.3389,,12,,17145,,192237,,,,,,1641,,18400,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,4,Dry breakbulk carriers,1.0986,,14,,6704,,51065,,8951,,80344,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,5,Dry bulk carriers,0.8194,,13,,16788,,161294,,29143,,327017,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,6,Roll-on/ roll-off ships,,,11,,17348,,76420,,7539,,43878,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,7,Liquefied petroleum gas carriers,0.3319,,14,,6138,,51035,,6671,,58811,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,392,Japan,8,Liquefied natural gas carriers,1.0354,,13,,79906,,149367,,57826,,122006,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",0,All ships,0.8722,,14,,21580,,237200,,23195,,327017,,3111,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",1,Passenger ships,,,15,,16130,,169379,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",2,Liquid bulk carriers,0.7792,,12,,14651,,167168,,25388,,322829,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",3,Container ships,0.6667,,13,,33452,,237200,,,,,,3111,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",4,Dry breakbulk carriers,1.1958,,17,,5204,,49192,,7397,,81279,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",5,Dry bulk carriers,2.0135,,14,,29409,,172521,,53020,,327017,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",6,Roll-on/ roll-off ships,,,17,,30681,,76420,,12335,,43878,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",7,Liquefied petroleum gas carriers,0.841,,17,,7601,,55000,,8388,,60000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,410,"Korea, Republic of",8,Liquefied natural gas carriers,1.0344,,10,,98647,,168189,,77872,,155159,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,0,All ships,0.5701,,17,,12411,,236583,,12981,,321300,,2888,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,1,Passenger ships,,,15,,14140,,150695,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,2,Liquid bulk carriers,0.5042,,16,,8805,,167168,,16252,,321300,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,3,Container ships,0.8153,,14,,31601,,236583,,,,,,2888,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,4,Dry breakbulk carriers,0.4097,,19,,3838,,91784,,5180,,116173,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,5,Dry bulk carriers,1.0993,,11,,34707,,150918,,61103,,297541,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,6,Roll-on/ roll-off ships,,,22,,15331,,76420,,6062,,48988,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,7,Liquefied petroleum gas carriers,1.0347,,12,,6785,,48963,,7537,,58811,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,528,Netherlands,8,Liquefied natural gas carriers,1.0608,,6,,56833,,136685,,43778,,121730,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,0,All ships,0.4028,,14,,3881,,164364,,7071,,321300,,856,,1678,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,1,Passenger ships,,,13,,3716,,111554,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,2,Liquid bulk carriers,0.6083,,16,,12271,,164364,,19981,,321300,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,3,Container ships,0.3319,,15,,9097,,17189,,,,,,856,,1678,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,4,Dry breakbulk carriers,0.3167,,23,,2638,,37158,,3205,,88272,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,5,Dry bulk carriers,0.8017,,15,,17321,,109716,,29195,,211153,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,6,Roll-on/ roll-off ships,,,17,,10474,,72684,,6425,,19922,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,7,Liquefied petroleum gas carriers,0.7528,,11,,10355,,37366,,11535,,42543,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,579,Norway,8,Liquefied natural gas carriers,0.2892,,14,,11398,,121597,,8377,,89452,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,0,All ships,1.2806,,27,,10302,,136716,,14759,,182060,,1504,,7100,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,1,Passenger ships,,,37,,8084,,37583,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,2,Liquid bulk carriers,0.9681,,24,,11081,,87146,,18459,,166300,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,3,Container ships,1.2924,,18,,16492,,85676,,,,,,1504,,7100,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,4,Dry breakbulk carriers,1.4264,,33,,3959,,40250,,5018,,62045,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,5,Dry bulk carriers,2.3566,,15,,27087,,94742,,47430,,182060,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,6,Roll-on/ roll-off ships,,,33,,12918,,72408,,6306,,27003,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,7,Liquefied petroleum gas carriers,1.3125,,12,,8261,,46491,,9220,,50891,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,643,Russian Federation,8,Liquefied natural gas carriers,1.1437,,7,,96463,,136716,,71412,,97000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,0,All ships,0.9021,,16,,15190,,236583,,14746,,205888,,3258,,23756,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,1,Passenger ships,,,18,,11069,,183900,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,2,Liquid bulk carriers,0.9118,,12,,10637,,94729,,17350,,164751,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,3,Container ships,0.6622,,14,,35676,,236583,,,,,,3258,,23756,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,4,Dry breakbulk carriers,1.184,,16,,5154,,66870,,7212,,71955,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,5,Dry bulk carriers,1.7528,,16,,22019,,106823,,37963,,205888,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,6,Roll-on/ roll-off ships,,,18,,26692,,76420,,10240,,48988,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,7,Liquefied petroleum gas carriers,1.0625,,12,,7313,,48963,,8376,,55173,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,724,Spain,8,Liquefied natural gas carriers,1.0604,,9,,103847,,168189,,82409,,154940,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,0,All ships,0.7837,,22,,15809,,214286,,8522,,166467,,1482,,19630,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,1,Passenger ships,,,24,,19515,,111554,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,2,Liquid bulk carriers,0.658,,14,,8256,,90000,,12417,,166467,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,3,Container ships,0.6056,,15,,16045,,214286,,,,,,1482,,19630,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,4,Dry breakbulk carriers,1.0458,,21,,3783,,37499,,5317,,55596,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,5,Dry bulk carriers,0.4743,,27,,7628,,45500,,11682,,85439,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,6,Roll-on/ roll-off ships,,,21,,25754,,75283,,9890,,39516,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,7,Liquefied petroleum gas carriers,0.8167,,15,,6608,,48827,,7136,,54656,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,752,Sweden,8,Liquefied natural gas carriers,0.8219,,6,,12575,,22887,,9610,,20918,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,0,All ships,1.1965,,25,,5801,,194308,,15611,,320105,,3002,,19462,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,1,Passenger ships,,,26,,1612,,37049,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,2,Liquid bulk carriers,1.2111,,14,,18374,,162018,,31466,,320105,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,3,Container ships,0.6215,,16,,33067,,194308,,,,,,3002,,19462,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,4,Dry breakbulk carriers,1.5431,,28,,4138,,43528,,5814,,62924,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,5,Dry bulk carriers,3.9743,,15,,25123,,108237,,43330,,207634,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,6,Roll-on/ roll-off ships,,,25,,20439,,76420,,7784,,45200,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,7,Liquefied petroleum gas carriers,1.4278,,15,,18536,,50676,,21243,,58551,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,792,Turkey,8,Liquefied natural gas carriers,1.2729,,10,,111314,,149367,,88315,,121939,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,0,All ships,1.4438,,25,,15199,,228741,,46430,,322829,,5508,,21237,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,1,Passenger ships,,,29,,4852,,228081,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,2,Liquid bulk carriers,1.5872,,10,,34100,,165680,,58713,,322829,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,3,Container ships,1.0566,,14,,61698,,228741,,,,,,5508,,21237,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,4,Dry breakbulk carriers,1.8792,,17,,13114,,66870,,18318,,77021,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,5,Dry bulk carriers,1.8399,,21,,28585,,108000,,51005,,208745,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,6,Roll-on/ roll-off ships,,,13,,59585,,100430,,22288,,55828,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,7,Liquefied petroleum gas carriers,1.9694,,9,,31263,,59229,,35670,,60000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,842,United States of America,8,Liquefied natural gas carriers,1.2757,,6,,101725,,149367,,80895,,100000,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,0,All ships,1.1125,,17,,14194,,236583,,11945,,321300,,3564,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,1,Passenger ships,,,17,,12485,,220000,,,,,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,2,Liquid bulk carriers,1.034,,14,,12117,,167054,,20224,,321300,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,3,Container ships,0.7535,,15,,38408,,236583,,,,,,3564,,23964,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,4,Dry breakbulk carriers,1.5378,,18,,3297,,44657,,4587,,55683,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,5,Dry bulk carriers,3.0299,,13,,26467,,95086,,45415,,182307,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,6,Roll-on/ roll-off ships,,,14,,25454,,100430,,10134,,55828,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,7,Liquefied petroleum gas carriers,1.0535,,11,,6594,,37366,,6995,,42543,,,,,
+2020S02,S2   2020,2020,S,Semi-annual,926,United Kingdom,8,Liquefied natural gas carriers,1.2507,,8,,102426,,168189,,84493,,155159,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,0,All ships,1.041,,18,,14300,,237200,,25065,,404389,,3459,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,1,Passenger ships,,,20,,6952,,228081,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,2,Liquid bulk carriers,0.984,,15,,15692,,170618,,27220,,323183,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,3,Container ships,0.775,,14,,37538,,237200,,,,,,3459,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,4,Dry breakbulk carriers,1.1896,,21,,5515,,91784,,7513,,116173,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,5,Dry bulk carriers,2.1299,,14,,32337,,204014,,57908,,404389,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,6,Roll-on/ roll-off ships,,,17,,26375,,100430,,10529,,55828,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,7,Liquefied petroleum gas carriers,1.0306,,15,,10629,,61000,,11902,,64220,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,0,World,8,Liquefied natural gas carriers,1.1285,,12,,95187,,168189,,74216,,155159,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,0,All ships,1.5736,,21,,25644,,152457,,82613,,299688,,4728,,9572,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,1,Passenger ships,,,30,,2384,,29338,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,2,Liquid bulk carriers,1.2628,,8,,23733,,84796,,40195,,167295,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,3,Container ships,1.4583,,14,,52245,,109712,,,,,,4728,,9572,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,4,Dry breakbulk carriers,1.9486,,11,,18266,,91649,,27860,,103652,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,5,Dry bulk carriers,1.7198,,10,,59983,,152457,,112223,,299688,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,6,Roll-on/ roll-off ships,,,12,,43049,,76420,,15883,,43878,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,7,Liquefied petroleum gas carriers,0.9479,,11,,12411,,51035,,14088,,58591,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,36,Australia,8,Liquefied natural gas carriers,1.2465,,10,,111949,,149367,,85987,,104701,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,0,All ships,0.9726,,28,,10698,,176546,,35957,,233584,,5325,,16020,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,1,Passenger ships,,,30,,6135,,30285,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,2,Liquid bulk carriers,1.1007,,12,,26133,,85762,,44055,,167282,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,3,Container ships,1.8233,,15,,58770,,176546,,,,,,5325,,16020,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,4,Dry breakbulk carriers,0.8663,,13,,12587,,42515,,17803,,60594,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,5,Dry bulk carriers,0.5514,,22,,28525,,118305,,49487,,233584,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,6,Roll-on/ roll-off ships,,,20,,11053,,100430,,6052,,55828,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,124,Canada,7,Liquefied petroleum gas carriers,1.5292,,9,,47124,,47963,,53781,,55209,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,0,All ships,1.134,,14,,31021,,237200,,45026,,404389,,4372,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,1,Passenger ships,,,14,,14517,,85619,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,2,Liquid bulk carriers,1.1684,,12,,20121,,170618,,35087,,323183,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,3,Container ships,0.6806,,13,,46935,,237200,,,,,,4372,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,4,Dry breakbulk carriers,1.4358,,17,,10039,,91649,,14156,,103652,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,5,Dry bulk carriers,2.0292,,14,,40526,,204014,,73691,,404389,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,6,Roll-on/ roll-off ships,,,12,,33820,,76420,,11569,,43878,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,7,Liquefied petroleum gas carriers,1.0382,,14,,9479,,61000,,10328,,64220,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,156,China,8,Liquefied natural gas carriers,1.1854,,10,,93756,,168189,,74508,,155159,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,0,All ships,1.1587,,16,,3398,,153744,,15354,,182421,,3480,,15226,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,1,Passenger ships,,,16,,3004,,137936,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,2,Liquid bulk carriers,0.8729,,15,,15296,,84315,,26122,,166300,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,3,Container ships,0.575,,15,,36524,,153744,,,,,,3480,,15226,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,4,Dry breakbulk carriers,2.6444,,23,,4882,,66870,,6495,,71955,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,191,Croatia,5,Dry bulk carriers,2.3125,,28,,10611,,93302,,17879,,182421,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,0,All ships,0.7653,,20,,9368,,214286,,7261,,167282,,1870,,19630,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,1,Passenger ships,,,20,,9704,,111554,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,2,Liquid bulk carriers,0.7076,,17,,8517,,93154,,13523,,167282,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,3,Container ships,0.4576,,16,,20860,,214286,,,,,,1870,,19630,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,4,Dry breakbulk carriers,0.8785,,24,,3275,,49091,,4412,,63581,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,5,Dry bulk carriers,0.8618,,11,,8498,,66786,,13820,,120566,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,6,Roll-on/ roll-off ships,,,20,,22155,,60500,,10604,,24485,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,208,Denmark,7,Liquefied petroleum gas carriers,1.0368,,10,,3604,,4748,,3996,,5200,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,0,All ships,1.1799,,17,,21440,,237200,,16035,,308376,,5051,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,1,Passenger ships,,,18,,22359,,169116,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,2,Liquid bulk carriers,1.0399,,13,,10986,,162761,,18165,,308376,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,3,Container ships,0.9333,,14,,55795,,237200,,,,,,5051,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,4,Dry breakbulk carriers,1.6437,,18,,4819,,39009,,6667,,62841,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,5,Dry bulk carriers,2.8882,,15,,23684,,107450,,41698,,208822,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,6,Roll-on/ roll-off ships,,,17,,29980,,76420,,12487,,48988,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,7,Liquefied petroleum gas carriers,1.0774,,12,,9606,,48963,,10764,,55047,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,251,France,8,Liquefied natural gas carriers,1.1083,,10,,99417,,141671,,75682,,106896,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,0,All ships,0.8444,,19,,14056,,237200,,9136,,297958,,4465,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,1,Passenger ships,,,20,,11920,,153516,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,2,Liquid bulk carriers,0.5632,,18,,4810,,156915,,7809,,297958,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,3,Container ships,1.0833,,14,,49446,,237200,,,,,,4465,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,4,Dry breakbulk carriers,0.8663,,21,,3682,,40250,,4918,,62041,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,5,Dry bulk carriers,2.7833,,12,,30413,,107761,,52864,,209756,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,6,Roll-on/ roll-off ships,,,17,,30884,,100430,,12271,,55828,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,276,Germany,7,Liquefied petroleum gas carriers,0.8677,,15,,4932,,35158,,5394,,44617,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,0,All ships,0.8576,,23,,8509,,226963,,7885,,166164,,4241,,21413,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,1,Passenger ships,,,22,,7528,,226963,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,2,Liquid bulk carriers,0.6194,,22,,6060,,85522,,9748,,166164,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,3,Container ships,1.0184,,16,,45223,,219688,,,,,,4241,,21413,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,4,Dry breakbulk carriers,1.1469,,33,,2705,,35240,,3796,,55802,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,5,Dry bulk carriers,0.6378,,26,,6621,,44980,,11097,,83051,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,6,Roll-on/ roll-off ships,,,33,,17060,,76420,,7053,,48988,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,7,Liquefied petroleum gas carriers,1,,23,,5807,,47774,,6835,,54304,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,300,Greece,8,Liquefied natural gas carriers,1.1715,,11,,86368,,136980,,68294,,122052,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,0,All ships,1.2931,,21,,7910,,160467,,17321,,306951,,1294,,6921,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,1,Passenger ships,,,22,,5116,,20563,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,2,Liquid bulk carriers,1.3056,,16,,8906,,160467,,14027,,306951,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,3,Container ships,1.0451,,15,,14248,,75579,,,,,,1294,,6921,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,4,Dry breakbulk carriers,1.2118,,21,,5161,,54732,,6985,,72562,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,5,Dry bulk carriers,3.0396,,17,,26216,,107741,,46114,,209801,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,6,Roll-on/ roll-off ships,,,32,,9465,,72635,,4347,,27200,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,7,Liquefied petroleum gas carriers,1.0719,,19,,9547,,49292,,10418,,58899,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,360,Indonesia,8,Liquefied natural gas carriers,1.4285,,20,,84879,,113502,,67194,,97730,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,0,All ships,1.3326,,28,,9499,,232618,,18303,,211182,,3729,,23756,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,1,Passenger ships,,,31,,6471,,183900,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,2,Liquid bulk carriers,1.3257,,17,,16876,,87146,,28524,,164787,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,3,Container ships,0.9319,,17,,40644,,232618,,,,,,3729,,23756,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,4,Dry breakbulk carriers,1.9222,,20,,6023,,40277,,8303,,62823,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,5,Dry bulk carriers,3.325,,16,,21478,,109716,,36488,,211182,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,6,Roll-on/ roll-off ships,,,13,,33278,,76420,,12855,,45200,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,380,Italy,7,Liquefied petroleum gas carriers,1.549,,14,,8298,,25248,,9498,,28532,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,0,All ships,0.4146,,14,,10716,,228741,,14802,,327017,,1571,,21237,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,1,Passenger ships,,,16,,4806,,50444,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,2,Liquid bulk carriers,0.3111,,12,,7646,,165571,,12865,,322861,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,3,Container ships,0.3562,,13,,16418,,228741,,,,,,1571,,21237,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,4,Dry breakbulk carriers,1.1951,,15,,6764,,50000,,8990,,80344,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,5,Dry bulk carriers,0.9035,,14,,17113,,161294,,29676,,327017,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,6,Roll-on/ roll-off ships,,,12,,17518,,76420,,7586,,43878,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,7,Liquefied petroleum gas carriers,0.3153,,14,,6931,,51035,,7523,,58811,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,392,Japan,8,Liquefied natural gas carriers,1.0222,,13,,73306,,149367,,53101,,122079,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",0,All ships,0.9,,15,,20044,,237200,,21638,,326932,,3027,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",1,Passenger ships,,,14,,16282,,35187,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",2,Liquid bulk carriers,0.7667,,13,,13690,,170618,,23588,,322861,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",3,Container ships,0.6951,,14,,32390,,237200,,,,,,3027,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",4,Dry breakbulk carriers,1.2167,,19,,5324,,91784,,7506,,116173,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",5,Dry bulk carriers,2.0924,,14,,28651,,172521,,51554,,326932,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",6,Roll-on/ roll-off ships,,,20,,27314,,76420,,11155,,43878,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",7,Liquefied petroleum gas carriers,0.8424,,16,,7727,,60000,,8525,,60000,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,410,"Korea, Republic of",8,Liquefied natural gas carriers,1.0389,,13,,104880,,168189,,82835,,154940,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,0,All ships,0.6104,,17,,12855,,237200,,13943,,324272,,2812,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,1,Passenger ships,,,15,,15322,,164998,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,2,Liquid bulk carriers,0.5326,,17,,9113,,164364,,16885,,320106,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,3,Container ships,0.8806,,15,,30474,,237200,,,,,,2812,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,4,Dry breakbulk carriers,0.4812,,20,,4019,,49091,,5374,,63581,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,5,Dry bulk carriers,1.0354,,11,,35794,,173504,,63563,,324272,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,6,Roll-on/ roll-off ships,,,22,,16239,,76420,,6381,,48988,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,7,Liquefied petroleum gas carriers,0.9132,,15,,6625,,48022,,7230,,58691,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,528,Netherlands,8,Liquefied natural gas carriers,1.0118,,6,,56092,,128975,,43840,,99000,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,0,All ships,0.4111,,14,,3829,,167054,,7433,,323183,,840,,2668,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,1,Passenger ships,,,13,,3643,,75156,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,2,Liquid bulk carriers,0.6125,,15,,12908,,167054,,21000,,323183,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,3,Container ships,0.3493,,16,,8941,,37071,,,,,,840,,2668,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,4,Dry breakbulk carriers,0.3125,,24,,2772,,49091,,3280,,63581,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,5,Dry bulk carriers,0.8847,,16,,18954,,109716,,31717,,211182,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,6,Roll-on/ roll-off ships,,,18,,11326,,70853,,7074,,27343,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,7,Liquefied petroleum gas carriers,0.8101,,10,,10660,,37366,,11814,,42543,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,579,Norway,8,Liquefied natural gas carriers,0.2931,,15,,6275,,128806,,5048,,96844,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,0,All ships,1.509,,26,,12216,,136716,,17935,,182588,,1531,,7455,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,1,Passenger ships,,,37,,7219,,12288,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,2,Liquid bulk carriers,1.1493,,24,,13682,,87146,,23154,,166300,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,3,Container ships,1.4118,,16,,16877,,85676,,,,,,1531,,7455,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,4,Dry breakbulk carriers,1.8573,,32,,4216,,40328,,5494,,62041,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,5,Dry bulk carriers,2.5472,,15,,27530,,94710,,48073,,182588,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,6,Roll-on/ roll-off ships,,,32,,13317,,43810,,6469,,22910,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,7,Liquefied petroleum gas carriers,1.6014,,14,,8763,,18425,,10259,,22911,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,643,Russian Federation,8,Liquefied natural gas carriers,1.1187,,9,,98650,,136716,,72195,,97000,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,0,All ships,0.9021,,17,,15586,,237200,,14952,,211182,,3004,,23756,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,1,Passenger ships,,,19,,12497,,228081,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,2,Liquid bulk carriers,0.9174,,13,,10523,,88704,,17148,,164733,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,3,Container ships,0.6451,,15,,32598,,237200,,,,,,3004,,23756,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,4,Dry breakbulk carriers,1.1653,,17,,5063,,66870,,7093,,71955,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,5,Dry bulk carriers,1.7694,,16,,22935,,109716,,39717,,211182,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,6,Roll-on/ roll-off ships,,,20,,30279,,76420,,11772,,48988,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,7,Liquefied petroleum gas carriers,1.0361,,12,,6888,,48022,,7804,,58691,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,724,Spain,8,Liquefied natural gas carriers,1.0184,,12,,95587,,136980,,74060,,121957,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,0,All ships,0.7736,,23,,15910,,214286,,8538,,318227,,1581,,19630,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,1,Passenger ships,,,26,,20074,,111554,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,2,Liquid bulk carriers,0.6528,,15,,8340,,158536,,12565,,318227,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,3,Container ships,0.6149,,16,,17076,,214286,,,,,,1581,,19630,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,4,Dry breakbulk carriers,1.0222,,21,,3811,,37499,,5375,,55807,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,5,Dry bulk carriers,0.4437,,27,,6156,,44109,,9025,,81914,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,6,Roll-on/ roll-off ships,,,21,,27086,,76420,,10259,,31143,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,752,Sweden,7,Liquefied petroleum gas carriers,0.8076,,15,,7176,,48542,,7933,,54783,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,0,All ships,1.1958,,24,,6440,,194308,,16308,,299498,,3023,,19462,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,1,Passenger ships,,,25,,1636,,153516,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,2,Liquid bulk carriers,1.192,,14,,18349,,157814,,31413,,299498,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,3,Container ships,0.6236,,17,,33255,,194308,,,,,,3023,,19462,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,4,Dry breakbulk carriers,1.4931,,29,,4150,,43528,,5801,,62053,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,5,Dry bulk carriers,3.7319,,16,,24840,,106884,,42752,,206125,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,6,Roll-on/ roll-off ships,,,24,,27593,,76420,,10564,,45200,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,7,Liquefied petroleum gas carriers,1.234,,19,,16473,,48714,,19036,,54747,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,792,Turkey,8,Liquefied natural gas carriers,1.2569,,10,,108899,,126004,,86460,,99025,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,0,All ships,1.5639,,26,,15219,,228741,,47527,,322829,,5503,,21237,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,1,Passenger ships,,,30,,5096,,228081,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,2,Liquid bulk carriers,1.5684,,11,,34405,,170611,,59428,,322829,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,3,Container ships,1.2069,,15,,61561,,228741,,,,,,5503,,21237,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,4,Dry breakbulk carriers,2.0076,,17,,12587,,91784,,17527,,116173,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,5,Dry bulk carriers,2.3632,,17,,30489,,108237,,54317,,207964,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,6,Roll-on/ roll-off ships,,,14,,58991,,100430,,21532,,55828,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,7,Liquefied petroleum gas carriers,1.8507,,9,,30401,,61000,,34551,,63766,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,842,United States of America,8,Liquefied natural gas carriers,1.2844,,6,,104753,,149367,,83610,,121823,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,0,All ships,1.1625,,18,,14350,,236583,,11973,,321300,,3162,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,1,Passenger ships,,,19,,12953,,169116,,,,,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,2,Liquid bulk carriers,1.0514,,15,,11989,,164364,,20001,,321300,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,3,Container ships,0.8035,,16,,34429,,236583,,,,,,3162,,23964,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,4,Dry breakbulk carriers,1.525,,20,,3378,,40250,,4698,,62045,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,5,Dry bulk carriers,2.9014,,14,,25803,,94942,,44135,,182983,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,6,Roll-on/ roll-off ships,,,14,,25200,,100430,,9849,,55828,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,7,Liquefied petroleum gas carriers,1.0556,,12,,6508,,47072,,6973,,54517,,,,,
+2021S01,S1   2021,2021,S,Semi-annual,926,United Kingdom,8,Liquefied natural gas carriers,1.2271,,7,,112943,,168189,,90889,,155159,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,0,All ships,1.0507,,18,,13802,,236583,,25085,,404389,,3403,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,1,Passenger ships,,,20,,7634,,228199,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,2,Liquid bulk carriers,0.9771,,14,,15783,,170618,,27327,,323183,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,3,Container ships,0.8306,,14,,36894,,236583,,,,,,3403,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,4,Dry breakbulk carriers,1.1583,,21,,5413,,91649,,7344,,103652,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,5,Dry bulk carriers,2.0826,,14,,32001,,204014,,57292,,404389,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,6,Roll-on/ roll-off ships,,,17,,25871,,100430,,10300,,55828,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,7,Liquefied petroleum gas carriers,1.0229,,15,,10456,,60784,,11699,,64220,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,0,World,8,Liquefied natural gas carriers,1.1313,,11,,95521,,168189,,74821,,155159,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,0,All ships,1.5646,,19,,29921,,152305,,82270,,297633,,4550,,9572,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,1,Passenger ships,,,30,,2427,,29338,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,2,Liquid bulk carriers,1.3135,,8,,23317,,84127,,39329,,158734,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,3,Container ships,1.6972,,14,,50792,,109712,,,,,,4550,,9572,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,4,Dry breakbulk carriers,1.9854,,11,,17200,,91649,,26692,,103652,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,5,Dry bulk carriers,1.6417,,10,,59397,,152305,,111098,,297633,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,6,Roll-on/ roll-off ships,,,10,,43589,,76420,,15922,,48988,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,7,Liquefied petroleum gas carriers,0.8778,,10,,14534,,51035,,16510,,58757,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,36,Australia,8,Liquefied natural gas carriers,1.2674,,9,,112308,,149367,,85869,,97975,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,0,All ships,0.5889,,26,,10917,,176546,,34052,,296681,,4837,,16000,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,1,Passenger ships,,,28,,6403,,30285,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,2,Liquid bulk carriers,1.0264,,12,,22905,,157316,,38100,,296681,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,3,Container ships,1.7677,,15,,53415,,176546,,,,,,4837,,16000,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,4,Dry breakbulk carriers,0.6667,,13,,11630,,46647,,16419,,72562,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,5,Dry bulk carriers,0.1885,,23,,26554,,109824,,45361,,210733,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,6,Roll-on/ roll-off ships,,,24,,10055,,100430,,5548,,55828,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,124,Canada,7,Liquefied petroleum gas carriers,1.4889,,7,,45847,,48963,,52363,,55209,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,0,All ships,1.1681,,13,,31131,,236583,,45467,,404389,,4431,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,1,Passenger ships,,,14,,14324,,77499,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,2,Liquid bulk carriers,1.1257,,12,,18945,,170618,,32897,,323183,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,3,Container ships,0.7799,,13,,47583,,236583,,,,,,4431,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,4,Dry breakbulk carriers,1.5639,,17,,10304,,91649,,14471,,103652,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,5,Dry bulk carriers,2.066,,14,,41215,,203997,,75108,,404389,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,6,Roll-on/ roll-off ships,,,12,,31129,,76420,,10989,,43878,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,7,Liquefied petroleum gas carriers,1.0472,,14,,9344,,60784,,10166,,64220,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,156,China,8,Liquefied natural gas carriers,1.1965,,9,,98267,,168189,,78373,,155159,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,0,All ships,1.1986,,17,,3690,,163922,,16629,,159855,,3804,,15226,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,1,Passenger ships,,,16,,3370,,155873,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,2,Liquid bulk carriers,0.9427,,15,,14541,,83669,,24819,,159855,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,3,Container ships,0.6361,,14,,40462,,153744,,,,,,3804,,15226,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,4,Dry breakbulk carriers,2.2302,,23,,4442,,31021,,6101,,88272,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,5,Dry bulk carriers,2.5451,,29,,12156,,70933,,20642,,120499,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,191,Croatia,8,Liquefied natural gas carriers,1.5611,,8,,118462,,163922,,95783,,130441,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,0,All ships,0.7354,,20,,9740,,214286,,7290,,159812,,1995,,19630,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,1,Passenger ships,,,20,,10082,,125572,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,2,Liquid bulk carriers,0.684,,17,,7988,,93759,,12669,,159812,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,3,Container ships,0.5358,,14,,22247,,214286,,,,,,1995,,19630,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,4,Dry breakbulk carriers,0.8142,,24,,3090,,34146,,4205,,33171,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,5,Dry bulk carriers,0.7601,,11,,7902,,49489,,12824,,85229,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,6,Roll-on/ roll-off ships,,,20,,22332,,65148,,10890,,34960,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,208,Denmark,7,Liquefied petroleum gas carriers,1.1243,,14,,3908,,5452,,4386,,5955,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,0,All ships,1.1521,,17,,21484,,236583,,16198,,319702,,5160,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,1,Passenger ships,,,18,,22623,,228199,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,2,Liquid bulk carriers,1.0111,,13,,11102,,167168,,18510,,319702,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,3,Container ships,0.9913,,13,,56260,,236583,,,,,,5160,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,4,Dry breakbulk carriers,1.5056,,17,,4477,,44684,,6198,,72562,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,5,Dry bulk carriers,3.0708,,13,,26892,,94674,,47870,,183123,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,6,Roll-on/ roll-off ships,,,18,,29115,,76420,,12005,,45200,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,7,Liquefied petroleum gas carriers,1.0868,,12,,9113,,47965,,10204,,54669,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,251,France,8,Liquefied natural gas carriers,1.1413,,11,,97216,,136980,,75879,,121910,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,0,All ships,0.833,,19,,13130,,236583,,9420,,307943,,4530,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,1,Passenger ships,,,21,,11015,,183200,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,2,Liquid bulk carriers,0.5462,,17,,5030,,163262,,8167,,307943,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,3,Container ships,1.1785,,13,,49837,,236583,,,,,,4530,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,4,Dry breakbulk carriers,0.8354,,21,,3587,,44684,,4818,,71460,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,5,Dry bulk carriers,2.2729,,11,,30092,,107737,,52397,,208822,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,6,Roll-on/ roll-off ships,,,17,,30714,,100430,,12255,,55828,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,276,Germany,7,Liquefied petroleum gas carriers,0.8875,,14,,5764,,26261,,6470,,38427,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,0,All ships,0.8368,,22,,8073,,219352,,7467,,166300,,4229,,21413,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,1,Passenger ships,,,21,,7494,,181541,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,2,Liquid bulk carriers,0.6125,,21,,5485,,86990,,8669,,166300,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,3,Container ships,1.0719,,16,,45141,,219352,,,,,,4229,,21413,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,4,Dry breakbulk carriers,1.1465,,33,,2787,,41580,,3864,,51624,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,5,Dry bulk carriers,0.6417,,26,,6702,,48021,,11199,,88279,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,6,Roll-on/ roll-off ships,,,35,,14862,,76420,,6328,,34960,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,7,Liquefied petroleum gas carriers,0.9847,,24,,4975,,22971,,5842,,26540,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,300,Greece,8,Liquefied natural gas carriers,1.2674,,9,,106854,,136685,,85050,,121843,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,0,All ships,1.2854,,20,,7897,,161833,,16698,,320122,,1145,,6750,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,1,Passenger ships,,,22,,5234,,20563,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,2,Liquid bulk carriers,1.3021,,15,,9131,,161833,,14389,,320122,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,3,Container ships,1.0819,,15,,12800,,76067,,,,,,1145,,6750,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,4,Dry breakbulk carriers,1.1538,,21,,4975,,57934,,6554,,72562,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,5,Dry bulk carriers,2.5524,,18,,24950,,108100,,43807,,208660,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,6,Roll-on/ roll-off ships,,,32,,9135,,75206,,4068,,28061,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,7,Liquefied petroleum gas carriers,1.0833,,20,,9005,,51035,,9811,,58811,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,360,Indonesia,8,Liquefied natural gas carriers,1.4222,,16,,92288,,136740,,73243,,96811,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,0,All ships,1.3576,,28,,9967,,232618,,19281,,211182,,3554,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,1,Passenger ships,,,30,,7522,,226963,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,2,Liquid bulk carriers,1.2493,,19,,16816,,86990,,28535,,166092,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,3,Container ships,0.9965,,16,,38625,,232618,,,,,,3554,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,4,Dry breakbulk carriers,2.0097,,19,,5947,,41416,,8218,,62346,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,5,Dry bulk carriers,3.666,,14,,23506,,109716,,40379,,211182,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,6,Roll-on/ roll-off ships,,,13,,33932,,76420,,13276,,45200,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,380,Italy,7,Liquefied petroleum gas carriers,1.7306,,14,,8490,,44673,,9587,,49996,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,0,All ships,0.4174,,13,,10151,,164688,,15073,,327017,,1508,,14336,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,1,Passenger ships,,,15,,4714,,50444,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,2,Liquid bulk carriers,0.3104,,12,,8112,,164688,,13728,,320785,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,3,Container ships,0.3708,,13,,15707,,151015,,,,,,1508,,14336,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,4,Dry breakbulk carriers,1.1913,,14,,6657,,66870,,8835,,80236,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,5,Dry bulk carriers,0.7552,,13,,16549,,161294,,28537,,327017,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,6,Roll-on/ roll-off ships,,,11,,17598,,76420,,7562,,43878,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,7,Liquefied petroleum gas carriers,0.3222,,13,,5872,,50700,,6324,,58899,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,392,Japan,8,Liquefied natural gas carriers,1.0347,,13,,74046,,149367,,53333,,122006,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",0,All ships,0.8889,,15,,18812,,236583,,21341,,326932,,2886,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",1,Passenger ships,,,11,,17308,,35187,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",2,Liquid bulk carriers,0.7382,,13,,13613,,170611,,23458,,321300,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",3,Container ships,0.7354,,13,,30876,,236583,,,,,,2886,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",4,Dry breakbulk carriers,1.1583,,19,,5236,,91649,,7521,,103652,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",5,Dry bulk carriers,2.184,,13,,29987,,173756,,54052,,326932,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",6,Roll-on/ roll-off ships,,,20,,25546,,76420,,10618,,43878,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",7,Liquefied petroleum gas carriers,0.8,,14,,7499,,60000,,8164,,62500,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,410,"Korea, Republic of",8,Liquefied natural gas carriers,1.05,,11,,110347,,168189,,87315,,155159,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,0,All ships,0.6257,,17,,12827,,236583,,14296,,319778,,2826,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,1,Passenger ships,,,14,,13567,,184089,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,2,Liquid bulk carriers,0.6083,,17,,9407,,166094,,17193,,319778,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,3,Container ships,0.8944,,15,,30474,,236583,,,,,,2826,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,4,Dry breakbulk carriers,0.3896,,20,,3872,,47426,,5195,,88272,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,5,Dry bulk carriers,1.3604,,10,,38652,,150918,,69459,,297541,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,6,Roll-on/ roll-off ships,,,21,,17287,,76420,,6613,,48988,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,7,Liquefied petroleum gas carriers,0.9896,,14,,6293,,48714,,6999,,58585,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,528,Netherlands,8,Liquefied natural gas carriers,1.0299,,8,,61369,,163922,,48040,,130441,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,0,All ships,0.4215,,13,,3973,,184089,,7108,,320137,,828,,1875,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,1,Passenger ships,,,12,,3841,,184089,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,2,Liquid bulk carriers,0.5833,,15,,10969,,170618,,17720,,320137,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,3,Container ships,0.3521,,16,,8640,,17360,,,,,,828,,1875,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,4,Dry breakbulk carriers,0.3368,,24,,2732,,49091,,3307,,63581,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,5,Dry bulk carriers,0.7549,,17,,17767,,107741,,29457,,209951,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,6,Roll-on/ roll-off ships,,,17,,11199,,70853,,6889,,28092,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,7,Liquefied petroleum gas carriers,0.8951,,10,,10860,,47057,,11974,,54901,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,579,Norway,8,Liquefied natural gas carriers,0.2889,,15,,5405,,22887,,4311,,20918,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,0,All ships,1.4285,,25,,10921,,128975,,16048,,182097,,1466,,7455,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,1,Passenger ships,,,28,,7022,,11478,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,2,Liquid bulk carriers,1.0597,,22,,12667,,86990,,21321,,167295,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,3,Container ships,1.7104,,16,,16342,,83133,,,,,,1466,,7455,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,4,Dry breakbulk carriers,1.7194,,30,,4206,,51821,,5465,,80500,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,5,Dry bulk carriers,2.4868,,16,,26266,,94970,,46001,,182097,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,6,Roll-on/ roll-off ships,,,28,,14054,,72705,,6760,,22910,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,7,Liquefied petroleum gas carriers,1.4708,,18,,7297,,18425,,8538,,22911,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,643,Russian Federation,8,Liquefied natural gas carriers,1.15,,10,,92479,,128975,,69566,,97000,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,0,All ships,0.9007,,17,,16267,,236583,,15043,,183123,,3054,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,1,Passenger ships,,,19,,14683,,226963,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,2,Liquid bulk carriers,0.8868,,12,,11278,,86266,,18514,,165209,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,3,Container ships,0.6563,,15,,32877,,236583,,,,,,3054,,23964,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,4,Dry breakbulk carriers,1.2007,,16,,5055,,66870,,7143,,72562,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,5,Dry bulk carriers,1.7875,,15,,24154,,95086,,42151,,183123,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,6,Roll-on/ roll-off ships,,,13,,22205,,76420,,7688,,45200,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,7,Liquefied petroleum gas carriers,1.0035,,12,,6573,,48060,,7327,,55047,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,724,Spain,8,Liquefied natural gas carriers,1.0812,,10,,93832,,163922,,74409,,130441,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,0,All ships,0.7694,,23,,16766,,214286,,8607,,159021,,1578,,19630,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,1,Passenger ships,,,25,,20574,,153516,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,2,Liquid bulk carriers,0.6667,,14,,8157,,88099,,12322,,159021,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,3,Container ships,0.7024,,15,,16948,,214286,,,,,,1578,,19630,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,4,Dry breakbulk carriers,0.9854,,22,,3771,,37499,,5325,,55807,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,5,Dry bulk carriers,0.467,,25,,6564,,49445,,10042,,87091,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,6,Roll-on/ roll-off ships,,,20,,27765,,76420,,10338,,34960,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,7,Liquefied petroleum gas carriers,0.8069,,15,,7760,,50468,,8575,,55250,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,752,Sweden,8,Liquefied natural gas carriers,0.7069,,7,,13161,,22887,,10073,,20916,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,0,All ships,1.2347,,24,,4979,,232618,,17353,,318824,,2916,,23756,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,1,Passenger ships,,,25,,1639,,93558,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,2,Liquid bulk carriers,1.1521,,14,,19068,,161045,,33278,,318824,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,3,Container ships,0.6382,,17,,31961,,232618,,,,,,2916,,23756,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,4,Dry breakbulk carriers,1.5764,,28,,4121,,51065,,5750,,72148,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,5,Dry bulk carriers,4.0833,,16,,24831,,109716,,42716,,211182,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,6,Roll-on/ roll-off ships,,,25,,26387,,76299,,10593,,45200,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,7,Liquefied petroleum gas carriers,1.1903,,20,,15872,,48825,,18322,,58691,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,792,Turkey,8,Liquefied natural gas carriers,1.1563,,8,,112020,,141671,,89217,,121843,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,0,All ships,1.5861,,26,,15853,,228081,,47932,,321300,,5328,,19273,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,1,Passenger ships,,,30,,6784,,228081,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,2,Liquid bulk carriers,1.6201,,11,,35049,,170611,,60704,,321300,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,3,Container ships,1.2958,,15,,59511,,196670,,,,,,5328,,19273,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,4,Dry breakbulk carriers,2.0563,,16,,12812,,66870,,17196,,81279,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,5,Dry bulk carriers,2.0778,,20,,29052,,108237,,52282,,208775,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,6,Roll-on/ roll-off ships,,,13,,58884,,100430,,21586,,55828,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,7,Liquefied petroleum gas carriers,1.8135,,9,,30261,,60784,,34404,,63770,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,842,United States of America,8,Liquefied natural gas carriers,1.2521,,6,,105630,,149367,,84165,,121946,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,0,All ships,1.1639,,18,,14244,,235579,,12269,,320785,,3064,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,1,Passenger ships,,,18,,13217,,184089,,,,,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,2,Liquid bulk carriers,1.0438,,14,,12613,,166094,,21106,,320785,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,3,Container ships,0.8503,,16,,33291,,235579,,,,,,3064,,23992,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,4,Dry breakbulk carriers,1.5236,,19,,3394,,48292,,4699,,62074,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,5,Dry bulk carriers,3.049,,13,,25881,,94970,,44249,,180556,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,6,Roll-on/ roll-off ships,,,15,,24649,,100430,,9855,,55828,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,7,Liquefied petroleum gas carriers,1.0486,,11,,6759,,46491,,7271,,50891,,,,,
+2021S02,S2   2021,2021,S,Semi-annual,926,United Kingdom,8,Liquefied natural gas carriers,1.234,,8,,75172,,168189,,61321,,154940,,,,,
+>>>>>>> main
